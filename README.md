@@ -75,6 +75,17 @@ We tried to select books from the 2020s, but there are a few older books that co
 | ![Story-Based Inquiry: A Manual for Investigative Journalists](https://cdn.prod.website-files.com/55ffb913802106d003a85d95/55ffedfd5d4501c40ebd0837_Cover%20manual%202014-p-500x702.png) | Story-Based Inquiry: A Manual for Investigative Journalists | Mark Lee Hunter | [Linkedin](https://www.linkedin.com/in/mark-lee-hunter-0770212/) | 2009 | https://www.storybasedinquiry.com/manual |
 | ![Watchdog Journalism: The Art of Investigative Reporting](https://m.media-amazon.com/images/I/71I1Wsy9KvL._SY466_.jpg) | Watchdog Journalism: The Art of Investigative Reporting | Stephen J. Berry |  | 2008 | https://www.amazon.com/Watchdog-Journalism-Art-Investigative-Reporting/dp/0195374029 |
 
+# OSINT Documents
+
+| Cover | Title | Author | Author's social media | Year | Link |
+|------------------|------------------|-------------------------|-------------|-------------|-------------|
+|  | A Proactive Defense: An Open-Source Intelligence (OSINT) Framework for Maritime Cybersecurity | Ahmed Nagi Nasr |  | 2026 | https://ieeexplore.ieee.org/document/11432833 |
+|  | Assessing Cybersecurity Threats in Sensitive Industrial Systems of Iran | Mohammad Taleghani, Mohammadreza Jabreilzadeh Sola |  | 2025 | https://msipublishers.com/wp-content/uploads/2025/08/MSIJMR1602025-GS.pdf |
+|  | Open-Source Intelligence for Counterterrorism | Dan Kolva, D. Whitney |  | 2024 | https://www.mitre.org/sites/default/files/2024-11/PR-24-2842-Open-Source-Intelligence-for-Counterterrorism_0.pdf |
+|  | Open-Source Analysis of Iran's Missile and UAV Capabilities and Proliferation | The International Institute for Strategic Studies |  | 2023 | https://www.iiss.org/globalassets/media-library---content--migration/files/research-papers/open-source-analysis-of-irans-missile-and-uav-capabilities-and-proliferation.pdf |
+|  | Open Source Intelligence for Malicious Behavior Discovery and Interpretation | Yi-Ting Huang, Chi Yu Lin, Ying-REN Guo, Kai-Chieh Lo, Yeali S. Sun, Meng Chang Chen |  | 2021 | https://homepage.iis.sinica.edu.tw/papers/mcc/24312-F.pdf |
+|  | Sailing the Sea of OSINT in the Information Age | Mercado, Stephen C. |  | 2010 | https://apps.dtic.mil/sti/tr/pdf/ADA525400.pdf |
+
 ## Other lists of OSINT books
 
 [OSINT Books list from HelpSecurity](https://www.helpnetsecurity.com/2025/02/17/osint-books/)  

@@ -39,6 +39,10 @@
     {
       "slug": "investigative-journalism-books",
       "title": "Investigative Journalism Books"
+    },
+    {
+      "slug": "osint-documents",
+      "title": "OSINT Documents"
     }
   ],
   "books": [
@@ -2269,6 +2273,224 @@
       "tags": [
         "Journalism",
         "Research"
+      ]
+    },
+    {
+      "slug": "a-proactive-defense-an-open-source-intelligence-osint-framework-for-maritime-cybersecurity",
+      "title": "A Proactive Defense: An Open-Source Intelligence (OSINT) Framework for Maritime Cybersecurity",
+      "subtitle": "An Open-Source Intelligence (OSINT) Framework for Maritime Cybersecurity",
+      "authors": [
+        "Ahmed Nagi Nasr"
+      ],
+      "authorLinks": [],
+      "year": 2026,
+      "yearLabel": "2026",
+      "affiliateUrl": "https://ieeexplore.ieee.org/document/11432833",
+      "sourceUrl": "https://github.com/aoc81/OSINT-Books",
+      "section": "OSINT Documents",
+      "isFree": false,
+      "language": [
+        "English"
+      ],
+      "editorialSummary": "A recent IEEE Access paper proposing a five-phase OSINT framework for maritime cybersecurity, supported by sector-specific case studies and tooling.",
+      "review": [
+        "The paper frames maritime OSINT as a structured workflow covering identification, collection, processing, analysis, and dissemination across vessels, ports, suppliers, and exposed digital assets.",
+        "It is most useful for readers who want a domain-specific example of proactive cyber intelligence rather than a generic OSINT overview, especially where operational technology and public maritime data intersect."
+      ],
+      "whyItMatters": "It shows how OSINT can be adapted to a domain with unique operational-technology, supply-chain, and vessel-tracking exposures.",
+      "whoItsFor": "Maritime-security teams, cyber researchers, OSINT practitioners, and analysts working on critical infrastructure or transport.",
+      "readingLevel": "Advanced",
+      "topics": [
+        "Cybersecurity",
+        "Analysis",
+        "Research"
+      ],
+      "tags": [
+        "Maritime",
+        "IoT",
+        "Critical Infrastructure"
+      ]
+    },
+    {
+      "slug": "assessing-cybersecurity-threats-in-sensitive-industrial-systems-of-iran",
+      "title": "Assessing Cybersecurity Threats in Sensitive Industrial Systems of Iran",
+      "authors": [
+        "Mohammad Taleghani",
+        "Mohammadreza Jabreilzadeh Sola"
+      ],
+      "authorLinks": [],
+      "year": 2025,
+      "yearLabel": "2025",
+      "affiliateUrl": "https://msipublishers.com/wp-content/uploads/2025/08/MSIJMR1602025-GS.pdf",
+      "sourceUrl": "https://github.com/aoc81/OSINT-Books",
+      "section": "OSINT Documents",
+      "isFree": true,
+      "language": [
+        "English"
+      ],
+      "editorialSummary": "A paper assessing cyber threats to Iran's sensitive industrial sectors, including energy, oil and gas, nuclear infrastructure, ICS, and IIoT environments.",
+      "review": [
+        "This paper examines cyber threats to Iran's sensitive industrial sectors, including energy, oil and gas, nuclear infrastructure, and other ICS/IIoT-heavy environments.",
+        "It is useful as a regional critical-infrastructure case study, especially for readers who want to connect strategic context, industrial exposure, and threat modeling rather than treat OT risk as a purely abstract topic."
+      ],
+      "whyItMatters": "It adds a regional critical-infrastructure case study to the catalog and ties OSINT-adjacent threat analysis to industrial risk.",
+      "whoItsFor": "ICS and OT security teams, cyber analysts, regional researchers, and readers interested in critical-infrastructure exposure.",
+      "readingLevel": "Advanced",
+      "topics": [
+        "Cybersecurity",
+        "Analysis",
+        "Research"
+      ],
+      "tags": [
+        "Iran",
+        "ICS",
+        "IIoT"
+      ]
+    },
+    {
+      "slug": "open-source-intelligence-for-counterterrorism",
+      "title": "Open-Source Intelligence for Counterterrorism",
+      "authors": [
+        "Dan Kolva",
+        "D. Whitney"
+      ],
+      "authorLinks": [],
+      "year": 2024,
+      "yearLabel": "2024",
+      "affiliateUrl": "https://www.mitre.org/sites/default/files/2024-11/PR-24-2842-Open-Source-Intelligence-for-Counterterrorism_0.pdf",
+      "sourceUrl": "https://github.com/aoc81/OSINT-Books",
+      "section": "OSINT Documents",
+      "isFree": true,
+      "language": [
+        "English"
+      ],
+      "editorialSummary": "A MITRE paper arguing for stronger OSINT capability development in counterterrorism, especially for indications, warning, and foreign terrorist organization analysis.",
+      "review": [
+        "MITRE argues that counterterrorism organizations should build a more deliberate OSINT capability to compensate for resource constraints and improve indications and warning on foreign terrorist organizations.",
+        "The paper is most useful as a policy and capability document. It focuses less on tool lists and more on why open data, external practices, and structured adoption matter for a modern counterterrorism mission."
+      ],
+      "whyItMatters": "It frames OSINT as a practical force multiplier for an under-resourced counterterrorism mission rather than an optional supplement.",
+      "whoItsFor": "Counterterrorism analysts, intelligence planners, OSINT practitioners, and readers interested in policy and capability development.",
+      "readingLevel": "Intermediate",
+      "topics": [
+        "Analysis",
+        "Research",
+        "Methodology"
+      ],
+      "tags": [
+        "Counterterrorism",
+        "FTO",
+        "Warning"
+      ]
+    },
+    {
+      "slug": "open-source-analysis-of-iran-s-missile-and-uav-capabilities-and-proliferation",
+      "title": "Open-Source Analysis of Iran's Missile and UAV Capabilities and Proliferation",
+      "authors": [
+        "The International Institute for Strategic Studies"
+      ],
+      "authorLinks": [],
+      "year": 2023,
+      "yearLabel": "2023",
+      "affiliateUrl": "https://www.iiss.org/globalassets/media-library---content--migration/files/research-papers/open-source-analysis-of-irans-missile-and-uav-capabilities-and-proliferation.pdf",
+      "sourceUrl": "https://github.com/aoc81/OSINT-Books",
+      "section": "OSINT Documents",
+      "isFree": true,
+      "language": [
+        "English"
+      ],
+      "editorialSummary": "An IISS research paper that uses open-source analysis to map Iran's missile and unmanned aerial vehicle capabilities and their proliferation.",
+      "review": [
+        "This IISS paper applies open-source analysis to a hard defense problem: understanding Iran's missile and UAV capabilities and the way those systems proliferate across regional and partner networks.",
+        "Its value on this shelf is methodological as much as substantive. It shows how publicly available evidence can be organized into a serious weapons and proliferation assessment without collapsing into speculation."
+      ],
+      "whyItMatters": "It shows how OSINT can support weapons and proliferation assessment without relying solely on classified collection.",
+      "whoItsFor": "Defense analysts, proliferation researchers, journalists, and OSINT practitioners tracking Iran, regional security, or arms transfers.",
+      "readingLevel": "Advanced",
+      "topics": [
+        "Analysis",
+        "Research",
+        "Verification"
+      ],
+      "tags": [
+        "Iran",
+        "Missiles",
+        "UAV"
+      ]
+    },
+    {
+      "slug": "open-source-intelligence-for-malicious-behavior-discovery-and-interpretation",
+      "title": "Open Source Intelligence for Malicious Behavior Discovery and Interpretation",
+      "authors": [
+        "Yi-Ting Huang",
+        "Chi Yu Lin",
+        "Ying-REN Guo",
+        "Kai-Chieh Lo",
+        "Yeali S. Sun",
+        "Meng Chang Chen"
+      ],
+      "authorLinks": [],
+      "year": 2021,
+      "yearLabel": "2021",
+      "affiliateUrl": "https://homepage.iis.sinica.edu.tw/papers/mcc/24312-F.pdf",
+      "sourceUrl": "https://github.com/aoc81/OSINT-Books",
+      "section": "OSINT Documents",
+      "isFree": true,
+      "language": [
+        "English"
+      ],
+      "editorialSummary": "A research paper that uses MITRE ATT&CK as an OSINT knowledge base for discovering and interpreting malicious behavior in Windows malware.",
+      "review": [
+        "This paper proposes MAMBA, a malware-behavior analysis system that combines MITRE ATT&CK knowledge with deep learning to discover malicious behavior from Windows execution traces.",
+        "It is especially useful for readers interested in interpretable cybersecurity workflows, because it maps detected behavior back to ATT&CK techniques and related API calls instead of stopping at a black-box classification result."
+      ],
+      "whyItMatters": "It shows how public threat intelligence can be operationalized inside behavior analysis rather than treated as background reference material.",
+      "whoItsFor": "Threat-intelligence analysts, malware researchers, detection engineers, and security teams working with ATT&CK-aligned analysis.",
+      "readingLevel": "Advanced",
+      "topics": [
+        "Cybersecurity",
+        "Analysis",
+        "Research"
+      ],
+      "tags": [
+        "MITRE ATT&CK",
+        "Malware",
+        "Threat Intelligence"
+      ]
+    },
+    {
+      "slug": "sailing-the-sea-of-osint-in-the-information-age",
+      "title": "Sailing the Sea of OSINT in the Information Age",
+      "authors": [
+        "Mercado, Stephen C."
+      ],
+      "authorLinks": [],
+      "year": 2010,
+      "yearLabel": "2010",
+      "affiliateUrl": "https://apps.dtic.mil/sti/tr/pdf/ADA525400.pdf",
+      "sourceUrl": "https://github.com/aoc81/OSINT-Books",
+      "section": "OSINT Documents",
+      "isFree": true,
+      "language": [
+        "English"
+      ],
+      "editorialSummary": "A short historical and strategic essay on the growing importance of open-source intelligence inside modern intelligence collection.",
+      "review": [
+        "Mercado argues that open sources have become indispensable to intelligence work and traces that argument through both technological change and earlier collection history.",
+        "The piece is valuable because it treats OSINT as part of the broader intelligence mosaic, not a separate internet trick bag, and it helps explain why language skills, monitoring, and systematic collection matter."
+      ],
+      "whyItMatters": "It gives the catalog a durable perspective on how OSINT evolved from supporting discipline to central intelligence capability.",
+      "whoItsFor": "Intelligence practitioners, OSINT researchers, and readers who want historical and institutional context for the field.",
+      "readingLevel": "Intermediate",
+      "topics": [
+        "Field History",
+        "Analysis",
+        "Research"
+      ],
+      "tags": [
+        "History",
+        "Intelligence Collection",
+        "OSINT"
       ]
     }
   ]
