@@ -81,10 +81,6 @@ We tried to select books from the 2020s, but there are a few older books that co
 
 
 
-If you are the author of an OSINT/investigative journalism book, feel free to request that it be added to this repository!
-
-Use Issues or the contact details on the main page of Ubikron's Github profile.
-
 
 
 ## Other lists of OSINT books
@@ -94,26 +90,6 @@ Use Issues or the contact details on the main page of Ubikron's Github profile.
 [OSINT Books Goodreads Rating](https://www.goodreads.com/shelf/show/osint)  
 [OSINT Books List from Aware Online](https://www.aware-online.com/en/osint-books/)  
 
-
-## Our other repositories
-
-
-[Ubikron Advanced Enrichments](https://github.com/ubikron/Advanced-Enrichments)  
-[Awesome AI OSINT](https://github.com/ubikron/Awesome-AI-OSINT)  
-[Awesome OSINT Chrome Extensions](https://github.com/ubikron/awesome-osint-chrome-extensions)  
-[OSINT People](https://github.com/ubikron/OSINT-People)  
-[OSINT Companies](https://github.com/ubikron/OSINT-Companies)  
-[OSINT Newsletters](https://github.com/ubikron/OSINT-newsletters)  
-[OSINT Books](https://github.com/ubikron/OSINT-Books)  
-[OSINT Conferences](https://github.com/ubikron/OSINT-Conferences)
-[OSINT CTFs](https://github.com/ubikron/OSINT-CTFs)  
-
-
------
-
-Don't miss our updates!   
-[Linkedin](https://www.linkedin.com/company/ubikron/)    
-[YouTube](https://www.youtube.com/@ubikron)  
 
 
 
