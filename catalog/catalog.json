@@ -1,0 +1,1636 @@
+{
+  "meta": {
+    "title": "OSINT Books",
+    "repoUrl": "https://github.com/aoc81/OSINT-Books",
+    "generatedReadmeNotice": "This README is generated from catalog/catalog.json via scripts/render-readme.mjs.",
+    "intro": [
+      "In this repository, you will find a short list of books on various OSINT tools and techniques, the use of OSINT in different fields (cybersecurity, recruiting), and the psychological aspects of investigations.",
+      "We tried to select books from the 2020s, but there are a few older books that contain little technical information that quickly becomes outdated."
+    ],
+    "otherListsHeading": "Other lists of OSINT books",
+    "otherLists": [
+      {
+        "label": "OSINT Books list from HelpSecurity",
+        "url": "https://www.helpnetsecurity.com/2025/02/17/osint-books/"
+      },
+      {
+        "label": "Top 5 OSINT Books from Social Links",
+        "url": "https://blog.sociallinks.io/top-5-books-for-sharpening-your-osint-skills-in-2025/"
+      },
+      {
+        "label": "OSINT Books Goodreads Rating",
+        "url": "https://www.goodreads.com/shelf/show/osint"
+      },
+      {
+        "label": "OSINT Books List from Aware Online",
+        "url": "https://www.aware-online.com/en/osint-books/"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "slug": "osint-books",
+      "title": "OSINT Books"
+    },
+    {
+      "slug": "german-osint-books",
+      "title": "German OSINT books"
+    },
+    {
+      "slug": "investigative-journalism-books",
+      "title": "Investigative Journalism Books"
+    }
+  ],
+  "books": [
+    {
+      "slug": "espanola-from-hooligans-to-war-machines",
+      "title": "Española: From hooligans to war machines",
+      "subtitle": "From hooligans to war machines",
+      "authors": [
+        "Ángel Ortiz"
+      ],
+      "authorLinks": [],
+      "year": 2026,
+      "yearLabel": "2026",
+      "affiliateUrl": "https://www.amazon.com/Espa%C3%B1ola-hooligans-machines-%C3%81ngel-Ortiz-ebook/dp/B0GYWV1BN4/",
+      "coverUrl": "https://m.media-amazon.com/images/I/71WnSxx9VaL._SL1500_.jpg",
+      "sourceUrl": "https://github.com/aoc81/OSINT-Books",
+      "section": "OSINT Books",
+      "isFree": false,
+      "language": [
+        "English"
+      ],
+      "editorialSummary": "A conflict-focused narrative that traces how the Espanola formation evolved from football-hooligan subculture into an organized wartime structure.",
+      "review": [
+        "This is not an OSINT handbook in the usual sense. It is a contextual title about formation, identity, and escalation: the kind of book that helps an investigator understand how a violent milieu describes itself, recruits meaning, and turns social energy into armed organization.",
+        "For readers following conflict ecosystems, militia branding, or the overlap between fan culture and militarization, that background matters. It gives shape to names, symbols, loyalties, and narratives that may otherwise appear online only as isolated fragments.",
+        "The value of the book on this shelf is interpretive rather than procedural. It is most useful when paired with active monitoring, reporting, and network research, because it helps explain what kind of actor you are actually looking at."
+      ],
+      "whyItMatters": "Useful when the reader needs historical and cultural context around a militant or adjacent network before trying to interpret current signals, imagery, and online claims.",
+      "whoItsFor": "Conflict researchers, journalists, extremist-network analysts, and OSINT practitioners tracking the evolution of armed or politicized subcultures.",
+      "readingLevel": "Intermediate",
+      "topics": [
+        "Field History",
+        "Analysis",
+        "Research"
+      ],
+      "tags": [
+        "Conflict",
+        "Subculture",
+        "Militia"
+      ]
+    },
+    {
+      "slug": "image-and-geolocation-intelligence-reverse-searching-and-mapping",
+      "title": "Image & Geolocation Intelligence: Reverse Searching and Mapping",
+      "subtitle": "Reverse Searching and Mapping",
+      "authors": [
+        "Algoryth Ryker"
+      ],
+      "authorLinks": [],
+      "year": 2025,
+      "yearLabel": "2025",
+      "affiliateUrl": "https://www.amazon.com/Image-Geolocation-Intelligence-Searching-Techniques/dp/B0F1Y9NLXQ",
+      "coverUrl": "https://m.media-amazon.com/images/I/51f9jmvi7gL._SY385_.jpg",
+      "sourceUrl": "https://github.com/aoc81/OSINT-Books",
+      "section": "OSINT Books",
+      "isFree": false,
+      "language": [
+        "English"
+      ],
+      "review": [],
+      "topics": [],
+      "tags": []
+    },
+    {
+      "slug": "offensive-intelligence-300-techniques-tools-and-tips-to-know-everything-about-everyone-in-business-and-beyond",
+      "title": "OFFENSIVE INTELLIGENCE: 300 techniques, tools and tips to know everything about everyone, in business and beyond",
+      "subtitle": "300 techniques, tools and tips to know everything about everyone, in business and beyond",
+      "authors": [
+        "Philippe Dylewski"
+      ],
+      "authorLinks": [
+        {
+          "label": "Linkedin",
+          "url": "https://www.linkedin.com/in/philippe-dylewski-968910231/"
+        }
+      ],
+      "year": 2025,
+      "yearLabel": "2025",
+      "affiliateUrl": "https://www.amazon.com/OFFENSIVE-INTELLIGENCE-techniques-everything-2025-2026/dp/B0DTV5JKZS/",
+      "coverUrl": "https://m.media-amazon.com/images/I/61j5YBEXUKL._SY385_.jpg",
+      "sourceUrl": "https://github.com/aoc81/OSINT-Books",
+      "section": "OSINT Books",
+      "isFree": false,
+      "language": [
+        "English"
+      ],
+      "review": [],
+      "topics": [],
+      "tags": []
+    },
+    {
+      "slug": "extreme-privacy-what-it-takes-to-disappear",
+      "title": "Extreme Privacy: What It Takes to Disappear",
+      "subtitle": "What It Takes to Disappear",
+      "authors": [
+        "Michael Bazzell"
+      ],
+      "authorLinks": [
+        {
+          "label": "Linkedin",
+          "url": "https://www.linkedin.com/in/michael-bazzell-a83572122/"
+        }
+      ],
+      "year": 2024,
+      "yearLabel": "2024",
+      "affiliateUrl": "https://www.amazon.com/exec/obidos/ASIN/B0DCJN61GF/",
+      "coverUrl": "https://m.media-amazon.com/images/I/31y0Z608e7L._SX342_SY445_FMwebp_.jpg",
+      "sourceUrl": "https://github.com/aoc81/OSINT-Books",
+      "section": "OSINT Books",
+      "isFree": false,
+      "language": [
+        "English"
+      ],
+      "editorialSummary": "A defensive privacy manual that shows, in concrete terms, how much can be inferred from ordinary digital and physical traces.",
+      "review": [
+        "This title earns its place on an OSINT shelf by inversion. It is not about investigating others so much as understanding how investigators, stalkers, data brokers, and adversaries can assemble a picture from exposed fragments.",
+        "That perspective is valuable because it makes the surface area of modern exposure feel real. Readers come away with a clearer sense of how identity, location, relationships, and habits leak through systems that most people treat as routine."
+      ],
+      "whyItMatters": "Good investigators should understand exposure from the target’s side too, and this book is one of the clearest reminders of how much information ordinary behavior reveals.",
+      "whoItsFor": "Researchers, security-conscious professionals, privacy-minded readers, and practitioners interested in operational security from the defensive side.",
+      "readingLevel": "Intermediate",
+      "topics": [
+        "Privacy",
+        "Operational Security"
+      ],
+      "tags": [
+        "Defensive",
+        "Privacy",
+        "Tradecraft"
+      ]
+    },
+    {
+      "slug": "inteligencia-e-investigacao-criminal-em-fontes-abertas",
+      "title": "Inteligência e Investigação Criminal em Fontes Abertas",
+      "authors": [
+        "Emerson Wendt"
+      ],
+      "authorLinks": [
+        {
+          "label": "Linkedin",
+          "url": "https://www.linkedin.com/in/emersonwendt/"
+        }
+      ],
+      "year": 2024,
+      "yearLabel": "2024",
+      "affiliateUrl": "https://www.editorabrasport.com.br/inteligencia-e-investigacao-criminal-em-fontes-abertas-4ed",
+      "coverUrl": "https://www.editorabrasport.com.br/image/cache/catalog/capa-livro-fisico/9786560960145-482x643.jpg",
+      "sourceUrl": "https://github.com/aoc81/OSINT-Books",
+      "section": "OSINT Books",
+      "isFree": false,
+      "language": [
+        "Portuguese"
+      ],
+      "review": [],
+      "topics": [],
+      "tags": []
+    },
+    {
+      "slug": "open-source-investigations-in-the-age-of-google",
+      "title": "Open Source Investigations in the Age of Google",
+      "authors": [
+        "Henrietta Wilson",
+        "Olamide Samuel",
+        "Dan Plesch"
+      ],
+      "authorLinks": [
+        {
+          "label": "Linkedin",
+          "url": "https://www.linkedin.com/in/henriettawilson/"
+        }
+      ],
+      "year": 2024,
+      "yearLabel": "2024",
+      "affiliateUrl": "https://www.amazon.com/exec/obidos/ASIN/B0D6QRD8LG",
+      "coverUrl": "https://m.media-amazon.com/images/I/81s5KcAsKeL._SY466_.jpg",
+      "sourceUrl": "https://github.com/aoc81/OSINT-Books",
+      "section": "OSINT Books",
+      "isFree": false,
+      "language": [
+        "English"
+      ],
+      "editorialSummary": "A contemporary survey of open-source investigation that places present-day search, verification, and digital inquiry inside the realities of the platform era.",
+      "review": [
+        "The value of this book is its timing and framing. It speaks to a world where Google is no longer the whole internet, discovery happens across fragmented platforms, and public-source investigation has to account for algorithmic visibility, platform decay, and changing evidence trails.",
+        "That makes it stronger as a field-orientation title than as a narrow specialist manual. It helps readers understand what modern online investigations feel like before they commit to a specific domain such as geolocation, due diligence, or human rights documentation."
+      ],
+      "whyItMatters": "It updates the shelf’s entry-level framing by treating OSINT as a contemporary investigative practice rather than a bag of classic search tricks.",
+      "whoItsFor": "Readers wanting a broad, recent survey of online investigation before they specialize into a narrower workflow.",
+      "readingLevel": "Beginner",
+      "topics": [
+        "Methodology",
+        "Research"
+      ],
+      "tags": [
+        "Survey",
+        "Contemporary",
+        "Field Overview"
+      ]
+    },
+    {
+      "slug": "osint-techniques-resources-for-uncovering-online-information",
+      "title": "OSINT Techniques: Resources for Uncovering Online Information",
+      "subtitle": "Resources for Uncovering Online Information",
+      "authors": [
+        "Michael Bazzell"
+      ],
+      "authorLinks": [
+        {
+          "label": "Linkedin",
+          "url": "https://www.linkedin.com/in/michael-bazzell-a83572122/"
+        }
+      ],
+      "year": 2024,
+      "yearLabel": "2024",
+      "affiliateUrl": "https://www.amazon.com/OSINT-Techniques-Resources-Uncovering-Information/dp/B0DMSPTCFD/",
+      "coverUrl": "https://m.media-amazon.com/images/I/413CCgOeHXL._SX342_SY445_FMwebp_.jpg",
+      "sourceUrl": "https://github.com/aoc81/OSINT-Books",
+      "section": "OSINT Books",
+      "isFree": false,
+      "language": [
+        "English"
+      ],
+      "editorialSummary": "A widely used field guide built around practical workflows, search pivots, and resource-driven online investigation.",
+      "review": [
+        "This is one of the shelf’s central practitioner books. Its reputation comes from being useful at the desk: a book readers return to while working, not just a high-level explanation of what OSINT is supposed to be.",
+        "It is especially strong for people who want a procedural handbook anchored in tools, sources, and repeatable collection habits. Even where the specific resources evolve, the mindset of structured, persistent online inquiry remains the reason it still matters."
+      ],
+      "whyItMatters": "It remains one of the most recognizable entry points for practical OSINT work because it trains method through repeated use, not just abstract explanation.",
+      "whoItsFor": "Beginners through intermediate practitioners who want a broad, desk-side handbook for online investigations.",
+      "readingLevel": "Beginner",
+      "topics": [
+        "Methodology",
+        "Research"
+      ],
+      "tags": [
+        "Reference",
+        "Field Guide",
+        "Practical"
+      ]
+    },
+    {
+      "slug": "osint-the-authoritative-guide-to-due-diligence",
+      "title": "OSINT: The Authoritative Guide to Due Diligence",
+      "subtitle": "The Authoritative Guide to Due Diligence",
+      "authors": [
+        "Cynthia Hetherington"
+      ],
+      "authorLinks": [
+        {
+          "label": "Linkedin",
+          "url": "https://www.linkedin.com/in/cynthiahetherington/"
+        }
+      ],
+      "year": 2024,
+      "yearLabel": "2024",
+      "affiliateUrl": "https://www.amazon.com/exec/obidos/ASIN/1960299425/",
+      "coverUrl": "https://m.media-amazon.com/images/I/41HhO+Cgd-L._SX342_SY445_FMwebp_.jpg",
+      "sourceUrl": "https://github.com/aoc81/OSINT-Books",
+      "section": "OSINT Books",
+      "isFree": false,
+      "language": [
+        "English"
+      ],
+      "editorialSummary": "A business-facing OSINT title that frames due diligence as a repeatable professional process rather than a loose collection of background checks.",
+      "review": [
+        "This book matters because it pulls the shelf toward institutional research: counterparties, ownership, exposure, and the kinds of questions that arise before deals, partnerships, onboarding, or compliance decisions.",
+        "Its orientation is less about public-interest reporting and more about professional scrutiny. Readers interested in corporate structures, reputational risk, and pre-transaction investigation will get more from it than readers looking for a general OSINT introduction."
+      ],
+      "whyItMatters": "It expands the catalog beyond newsroom and security use cases into the corporate, compliance, and professional-investigation side of the field.",
+      "whoItsFor": "Due diligence teams, compliance researchers, investigators in corporate settings, and analysts handling counterparties or reputational exposure.",
+      "readingLevel": "Intermediate",
+      "topics": [
+        "Due Diligence",
+        "Corporate Intelligence"
+      ],
+      "tags": [
+        "Compliance",
+        "Business",
+        "Research"
+      ]
+    },
+    {
+      "slug": "the-intelligence-bible-a-comprehensive-guide-to-intelligence",
+      "title": "The Intelligence Bible: A comprehensive guide to intelligence",
+      "subtitle": "A comprehensive guide to intelligence",
+      "authors": [
+        "Oliver Wright"
+      ],
+      "authorLinks": [],
+      "year": 2024,
+      "yearLabel": "2024",
+      "affiliateUrl": "https://www.amazon.com/exec/obidos/ASIN/B0DPGFZ3MB/",
+      "coverUrl": "https://m.media-amazon.com/images/I/31gE7i8qVFL._SX342_SY445_FMwebp_.jpg",
+      "sourceUrl": "https://github.com/aoc81/OSINT-Books",
+      "section": "OSINT Books",
+      "isFree": false,
+      "language": [
+        "English"
+      ],
+      "review": [],
+      "topics": [],
+      "tags": []
+    },
+    {
+      "slug": "deep-dive-exploring-the-real-world-value-of-open-source-intelligence",
+      "title": "Deep Dive: Exploring the Real-world Value of Open Source Intelligence",
+      "subtitle": "Exploring the Real-world Value of Open Source Intelligence",
+      "authors": [
+        "Rae L. Baker"
+      ],
+      "authorLinks": [
+        {
+          "label": "Linkedin",
+          "url": "https://www.linkedin.com/in/raebakerosint/"
+        }
+      ],
+      "year": 2023,
+      "yearLabel": "2023",
+      "affiliateUrl": "https://www.amazon.com/exec/obidos/ASIN/1119933242/",
+      "coverUrl": "https://m.media-amazon.com/images/I/51qSqRyctWL._SX342_SY445_FMwebp_.jpg",
+      "sourceUrl": "https://github.com/aoc81/OSINT-Books",
+      "section": "OSINT Books",
+      "isFree": false,
+      "language": [
+        "English"
+      ],
+      "editorialSummary": "A use-case-driven look at what OSINT is actually worth in operational settings, from investigations to business and intelligence work.",
+      "review": [
+        "This is a context book more than a technique book. Its main contribution is showing where open-source work creates value in the real world and why organizations keep investing in it, rather than trying to win readers over with a huge list of tools.",
+        "That makes it useful for teams deciding how OSINT fits into a larger workflow, and for practitioners who need a clearer sense of application before going deeper into specialist methods."
+      ],
+      "whyItMatters": "It helps readers understand the practical role of OSINT inside decision-making environments instead of treating the field as isolated internet research.",
+      "whoItsFor": "Managers, intelligence-adjacent teams, investigators, and practitioners who need practical context before narrower tradecraft.",
+      "readingLevel": "Beginner",
+      "topics": [
+        "Analysis",
+        "Methodology"
+      ],
+      "tags": [
+        "Applied",
+        "Context",
+        "Practice"
+      ]
+    },
+    {
+      "slug": "osint-in-the-intelligence-era",
+      "title": "OSINT in the intelligence era",
+      "authors": [
+        "Gianluigi Me"
+      ],
+      "authorLinks": [
+        {
+          "label": "Linkedin",
+          "url": "https://www.linkedin.com/in/gianluigime/"
+        }
+      ],
+      "year": 2023,
+      "yearLabel": "2023",
+      "affiliateUrl": "https://www.amazon.com/OSINT-Intelligence-Era-Lecture-notes-ebook/dp/B0CFZPL8NY",
+      "coverUrl": "https://m.media-amazon.com/images/I/81qaja4lBXL._SY425_.jpg",
+      "sourceUrl": "https://github.com/aoc81/OSINT-Books",
+      "section": "OSINT Books",
+      "isFree": false,
+      "language": [
+        "English"
+      ],
+      "review": [],
+      "topics": [],
+      "tags": []
+    },
+    {
+      "slug": "the-open-source-intelligence-guide",
+      "title": "The Open Source Intelligence Guide",
+      "authors": [
+        "Thomas Caliendo"
+      ],
+      "authorLinks": [
+        {
+          "label": "Linkedin",
+          "url": "https://www.linkedin.com/in/thomas-j-caliendo/"
+        }
+      ],
+      "year": 2022,
+      "yearLabel": "2022",
+      "affiliateUrl": "https://www.amazon.com/Open-Source-Intelligence-Guide-Investigate-ebook/dp/B0BMXRTG7P",
+      "coverUrl": "https://m.media-amazon.com/images/I/71ijyHx4NaL._SY466_.jpg",
+      "sourceUrl": "https://github.com/aoc81/OSINT-Books",
+      "section": "OSINT Books",
+      "isFree": false,
+      "language": [
+        "English"
+      ],
+      "review": [],
+      "topics": [],
+      "tags": []
+    },
+    {
+      "slug": "the-open-source-intelligence-guide-how-to-investigate-anyone-or-anything-on-the-internet",
+      "title": "The Open Source Intelligence Guide: How to Investigate Anyone or Anything on the Internet",
+      "subtitle": "How to Investigate Anyone or Anything on the Internet",
+      "authors": [
+        "Tom Caliendo"
+      ],
+      "authorLinks": [
+        {
+          "label": "Linkedin",
+          "url": "https://www.linkedin.com/in/thomas-j-caliendo/"
+        }
+      ],
+      "year": 2022,
+      "yearLabel": "2022",
+      "affiliateUrl": "https://www.amazon.com/Open-Source-Intelligence-Guide-Investigate-ebook/dp/B0BMXRTG7P/",
+      "coverUrl": "https://m.media-amazon.com/images/I/41cqy5kl64L._SY445_SX342_QL70_FMwebp_.jpg",
+      "sourceUrl": "https://github.com/aoc81/OSINT-Books",
+      "section": "OSINT Books",
+      "isFree": false,
+      "language": [
+        "English"
+      ],
+      "editorialSummary": "An accessible, direct-entry guide to internet-based investigation aimed at readers who want to start doing rather than theorizing.",
+      "review": [
+        "The title tells you exactly what it is trying to be: a practical guide to investigating people, entities, and questions through public online traces. It belongs on the shelf because it lowers the barrier to entry without pretending the subject must be academic to be serious.",
+        "That makes it useful for beginners, investigators in adjacent fields, and readers who need a straightforward operational starting point before moving on to more specialized or demanding books."
+      ],
+      "whyItMatters": "It gives the catalog a blunt, approachable on-ramp for readers who need a practical start rather than a conceptual overview.",
+      "whoItsFor": "Beginners, private-sector investigators, adjacent professionals, and readers needing a less academic starting point.",
+      "readingLevel": "Beginner",
+      "topics": [
+        "Methodology",
+        "Research"
+      ],
+      "tags": [
+        "Accessible",
+        "Practical",
+        "Introductory"
+      ]
+    },
+    {
+      "slug": "offensive-intelligence-300-techniques-tools-and-tips-to-know-everything-about-everyone-in-companies-and-elsewhere",
+      "title": "Offensive Intelligence: 300 techniques, tools, and tips to know everything about everyone, in companies and elsewhere",
+      "subtitle": "300 techniques, tools, and tips to know everything about everyone, in companies and elsewhere",
+      "authors": [
+        "Philippe Dylewski"
+      ],
+      "authorLinks": [
+        {
+          "label": "Linkedin",
+          "url": "https://www.linkedin.com/in/philippe-dylewski-968910231/"
+        }
+      ],
+      "year": 2021,
+      "yearLabel": "2021",
+      "affiliateUrl": "https://www.amazon.com/Offensive-Intelligence-techniques-everything-companies/dp/B09LWPCRV7",
+      "coverUrl": "https://m.media-amazon.com/images/I/51xlke+AUIL._SX342_SY445_QL70_FMwebp_.jpg",
+      "sourceUrl": "https://github.com/aoc81/OSINT-Books",
+      "section": "OSINT Books",
+      "isFree": false,
+      "language": [
+        "English"
+      ],
+      "review": [],
+      "topics": [],
+      "tags": []
+    },
+    {
+      "slug": "operator-handbook-red-team-osint-blue-team-reference",
+      "title": "Operator Handbook: Red Team + OSINT + Blue Team Reference",
+      "subtitle": "Red Team + OSINT + Blue Team Reference",
+      "authors": [
+        "Joshua Picolet"
+      ],
+      "authorLinks": [],
+      "year": 2021,
+      "yearLabel": "2021",
+      "affiliateUrl": "https://www.amazon.sa/-/en/Operator-Handbook-Team-OSINT-Reference/dp/B085RR67H5",
+      "coverUrl": "https://m.media-amazon.com/images/I/61cL+NN36GL._SY522_.jpg",
+      "sourceUrl": "https://github.com/aoc81/OSINT-Books",
+      "section": "OSINT Books",
+      "isFree": false,
+      "language": [
+        "English"
+      ],
+      "review": [],
+      "topics": [],
+      "tags": []
+    },
+    {
+      "slug": "the-internet-intelligence-and-investigation-handbook-a-practical-guide-to-internet-investigation",
+      "title": "The Internet Intelligence & Investigation Handbook: A Practical Guide to Internet Investigation",
+      "subtitle": "A Practical Guide to Internet Investigation",
+      "authors": [
+        "Steve Adams"
+      ],
+      "authorLinks": [
+        {
+          "label": "Linkedin",
+          "url": "https://www.linkedin.com/in/steve-adams-700356/"
+        }
+      ],
+      "year": 2021,
+      "yearLabel": "2021",
+      "affiliateUrl": "https://www.amazon.com/gp/product/B0961BXYPS",
+      "coverUrl": "https://m.media-amazon.com/images/I/41RemYV4iZS._SY445_SX342_QL70_FMwebp_.jpg",
+      "sourceUrl": "https://github.com/aoc81/OSINT-Books",
+      "section": "OSINT Books",
+      "isFree": false,
+      "language": [
+        "English"
+      ],
+      "review": [],
+      "topics": [],
+      "tags": []
+    },
+    {
+      "slug": "we-are-bellingcat-global-crime-online-sleuths-and-the-bold-future-of-news",
+      "title": "We Are Bellingcat: Global Crime, Online Sleuths, and the Bold Future of News",
+      "subtitle": "Global Crime, Online Sleuths, and the Bold Future of News",
+      "authors": [
+        "Eliot Higgins"
+      ],
+      "authorLinks": [
+        {
+          "label": "Linkedin",
+          "url": "https://www.linkedin.com/in/eliot-higgins-955822216/"
+        }
+      ],
+      "year": 2021,
+      "yearLabel": "2021",
+      "affiliateUrl": "https://www.amazon.com/We-Are-Bellingcat-Global-Sleuths/dp/1635577306",
+      "coverUrl": "https://m.media-amazon.com/images/I/71XxdHqtvbL._SY466_.jpg",
+      "sourceUrl": "https://github.com/aoc81/OSINT-Books",
+      "section": "OSINT Books",
+      "isFree": false,
+      "language": [
+        "English"
+      ],
+      "editorialSummary": "A narrative account of how Bellingcat helped make open-source investigation legible to the broader public and to journalism itself.",
+      "review": [
+        "This book is less a manual than a story about a movement, a newsroom-adjacent culture, and the public identity of online investigation in the 2010s. Its value comes from showing how a once-niche practice became visible, influential, and politically resonant.",
+        "For readers who already know the techniques, it offers field history and institutional context. For general readers, it explains why open-source investigation started to matter far beyond specialist circles."
+      ],
+      "whyItMatters": "It connects tradecraft to the public-facing rise of open-source reporting and helps explain why the field gained such cultural force.",
+      "whoItsFor": "General readers, journalists, and practitioners interested in how open-source investigation entered mainstream reporting and public debate.",
+      "readingLevel": "Beginner",
+      "topics": [
+        "Investigative Journalism",
+        "Field History"
+      ],
+      "tags": [
+        "Narrative",
+        "Journalism",
+        "History"
+      ]
+    },
+    {
+      "slug": "critical-thinking-for-strategic-intelligence",
+      "title": "Critical Thinking for Strategic Intelligence",
+      "authors": [
+        "Katherine H. Pherson",
+        "Randolph H. Pherson"
+      ],
+      "authorLinks": [],
+      "year": 2020,
+      "yearLabel": "2020",
+      "affiliateUrl": "https://www.amazon.com/exec/obidos/ASIN/1544374267",
+      "coverUrl": "https://m.media-amazon.com/images/I/51lAusf+RdL._SY445_SX342_FMwebp_.jpg",
+      "sourceUrl": "https://github.com/aoc81/OSINT-Books",
+      "section": "OSINT Books",
+      "isFree": false,
+      "language": [
+        "English"
+      ],
+      "editorialSummary": "A structured-analysis book about how to think under uncertainty, not how to search faster.",
+      "review": [
+        "This title belongs on the shelf because it addresses the stage where many investigations actually fail: interpretation. It focuses on analytical discipline, competing hypotheses, cognitive error, and the difference between collecting information and making a sound judgment from it.",
+        "Readers looking for tools, operators, or platform walkthroughs will not get much from it. Readers who already gather plenty of data and need to improve how they weigh, frame, and defend conclusions will get much more."
+      ],
+      "whyItMatters": "Strong investigation work depends on disciplined reasoning as much as on discovery techniques, and this book is explicitly about that second half of the job.",
+      "whoItsFor": "Analysts, researchers, editors, intelligence-adjacent teams, and experienced practitioners refining how they judge evidence.",
+      "readingLevel": "Advanced",
+      "topics": [
+        "Analysis",
+        "Methodology"
+      ],
+      "tags": [
+        "Reasoning",
+        "Analysis",
+        "Tradecraft"
+      ]
+    },
+    {
+      "slug": "digital-witness-using-open-source-information-for-human-rights-investigation-documentation-and-accountability",
+      "title": "Digital Witness: Using Open Source Information for Human Rights Investigation, Documentation, and Accountability",
+      "subtitle": "Using Open Source Information for Human Rights Investigation, Documentation, and Accountability",
+      "authors": [
+        "Sam Dubberley",
+        "Alexa Koenig",
+        "Daragh Murray"
+      ],
+      "authorLinks": [
+        {
+          "label": "Linkedin",
+          "url": "https://www.linkedin.com/in/samdubberley/"
+        }
+      ],
+      "year": 2020,
+      "yearLabel": "2020",
+      "affiliateUrl": "https://www.amazon.com/exec/obidos/ASIN/0198836074/",
+      "coverUrl": "https://m.media-amazon.com/images/I/81v+4TpO9sL._SY425_.jpg",
+      "sourceUrl": "https://github.com/aoc81/OSINT-Books",
+      "section": "OSINT Books",
+      "isFree": false,
+      "language": [
+        "English"
+      ],
+      "editorialSummary": "A rigorous guide to using open-source material in human rights documentation, evidentiary work, and accountability-oriented investigations.",
+      "review": [
+        "This is one of the most serious books on the shelf because it treats open-source information not as content to browse but as material that may carry legal, ethical, and documentary weight. Its center of gravity is standards: how evidence is found, preserved, assessed, and used responsibly.",
+        "That gives it value well beyond human rights organizations. Anyone working with sensitive visual evidence, testimony-adjacent material, or public claims that may later need to withstand scrutiny will recognize the discipline it demands."
+      ],
+      "whyItMatters": "It is one of the clearest entries in the catalog on what it means to handle open-source evidence carefully enough for documentation and accountability work.",
+      "whoItsFor": "Human rights researchers, investigative journalists, legal support teams, verification specialists, and readers handling sensitive documentation.",
+      "readingLevel": "Advanced",
+      "topics": [
+        "Human Rights",
+        "Verification"
+      ],
+      "tags": [
+        "Evidence",
+        "Documentation",
+        "Accountability"
+      ]
+    },
+    {
+      "slug": "hunting-cyber-criminals-a-hacker-s-guide-to-online-intelligence-gathering-tools-and-techniques",
+      "title": "Hunting Cyber Criminals: A Hacker’s Guide to Online Intelligence Gathering Tools and Techniques",
+      "subtitle": "A Hacker’s Guide to Online Intelligence Gathering Tools and Techniques",
+      "authors": [
+        "Vinny Troia"
+      ],
+      "authorLinks": [
+        {
+          "label": "Linkedin",
+          "url": "https://www.linkedin.com/in/vinnytroia/"
+        }
+      ],
+      "year": 2020,
+      "yearLabel": "2020",
+      "affiliateUrl": "https://www.amazon.com/exec/obidos/ASIN/1119540925/",
+      "coverUrl": "https://m.media-amazon.com/images/I/51F8xeFmGjL._SX342_SY445_FMwebp_.jpg",
+      "sourceUrl": "https://github.com/aoc81/OSINT-Books",
+      "section": "OSINT Books",
+      "isFree": false,
+      "language": [
+        "English"
+      ],
+      "review": [],
+      "topics": [],
+      "tags": []
+    },
+    {
+      "slug": "osint-tools-in-local-government-so-what-can-be-checked",
+      "title": "OSINT tools in local government: So what can be checked?",
+      "subtitle": "So what can be checked?",
+      "authors": [
+        "Mateusz Wójtowicz"
+      ],
+      "authorLinks": [],
+      "year": 2020,
+      "yearLabel": "2020",
+      "affiliateUrl": "https://www.amazon.com/gp/product/B08RGR6WHP",
+      "coverUrl": "https://m.media-amazon.com/images/I/41o2-zjmc0L._SY445_SX342_QL70_FMwebp_.jpg",
+      "sourceUrl": "https://github.com/aoc81/OSINT-Books",
+      "section": "OSINT Books",
+      "isFree": false,
+      "language": [
+        "English"
+      ],
+      "review": [],
+      "topics": [],
+      "tags": []
+    },
+    {
+      "slug": "hack-the-world-with-osint",
+      "title": "Hack the World with OSINT",
+      "authors": [
+        "Chris Kubecka"
+      ],
+      "authorLinks": [
+        {
+          "label": "Linkedin",
+          "url": "https://www.linkedin.com/in/chris-kubecka/"
+        }
+      ],
+      "year": 2019,
+      "yearLabel": "2019",
+      "affiliateUrl": "https://www.amazon.sa/-/en/Hack-World-OSINT-Hackers-Gonna/dp/0995687595",
+      "coverUrl": "https://m.media-amazon.com/images/I/41N3HO5EnwL.jpg",
+      "sourceUrl": "https://github.com/aoc81/OSINT-Books",
+      "section": "OSINT Books",
+      "isFree": false,
+      "language": [
+        "English"
+      ],
+      "review": [],
+      "topics": [],
+      "tags": []
+    },
+    {
+      "slug": "osint-for-the-staffing-world",
+      "title": "OSINT For The Staffing World!",
+      "authors": [
+        "Dean Da Costa"
+      ],
+      "authorLinks": [
+        {
+          "label": "Linkedin",
+          "url": "https://www.linkedin.com/in/deandacosta/"
+        }
+      ],
+      "year": 2019,
+      "yearLabel": "2019",
+      "affiliateUrl": "https://www.amazon.com/OSINT-Staffing-World-Dean-Costa-ebook/dp/B07W3JRW5Y",
+      "coverUrl": "https://m.media-amazon.com/images/I/61Ttu6J5eVL._SX445_.jpg",
+      "sourceUrl": "https://github.com/aoc81/OSINT-Books",
+      "section": "OSINT Books",
+      "isFree": false,
+      "language": [
+        "English"
+      ],
+      "review": [],
+      "topics": [],
+      "tags": []
+    },
+    {
+      "slug": "open-source-intelligence-methods-and-tools-a-practical-guide-to-online-intelligence",
+      "title": "Open Source Intelligence Methods and Tools: A Practical Guide to Online Intelligence",
+      "subtitle": "A Practical Guide to Online Intelligence",
+      "authors": [
+        "Nihad A Hassan"
+      ],
+      "authorLinks": [
+        {
+          "label": "Linkedin",
+          "url": "https://www.linkedin.com/in/darknessgate/"
+        }
+      ],
+      "year": 2018,
+      "yearLabel": "2018",
+      "affiliateUrl": "https://www.amazon.sa/-/en/Apress-Source-Intelligence-Methods-Tools/dp/1484232127",
+      "coverUrl": "https://m.media-amazon.com/images/I/61VjlcOLPbL._SY522_.jpg",
+      "sourceUrl": "https://github.com/aoc81/OSINT-Books",
+      "section": "OSINT Books",
+      "isFree": false,
+      "language": [
+        "English"
+      ],
+      "review": [],
+      "topics": [],
+      "tags": []
+    },
+    {
+      "slug": "down-the-rabbit-hole-an-osint-journey-open-source-intelligence-gathering-for-penetration-testing",
+      "title": "Down the Rabbit Hole an OSINT Journey: Open Source Intelligence Gathering for Penetration Testing",
+      "subtitle": "Open Source Intelligence Gathering for Penetration Testing",
+      "authors": [
+        "Chris Kubecka"
+      ],
+      "authorLinks": [
+        {
+          "label": "Linkedin",
+          "url": "https://www.linkedin.com/in/chris-kubecka/"
+        }
+      ],
+      "year": 2017,
+      "yearLabel": "2017",
+      "affiliateUrl": "https://www.amazon.com/Down-Rabbit-Hole-OSINT-Journey/dp/0995687544",
+      "coverUrl": "https://m.media-amazon.com/images/I/61zw-i45wfL._SY385_.jpg",
+      "sourceUrl": "https://github.com/aoc81/OSINT-Books",
+      "section": "OSINT Books",
+      "isFree": false,
+      "language": [
+        "English"
+      ],
+      "review": [],
+      "topics": [],
+      "tags": []
+    },
+    {
+      "slug": "hacking-web-intelligence-open-source-intelligence-and-web-reconnaissance-concepts-and-techniques",
+      "title": "Hacking Web Intelligence: Open Source Intelligence and Web Reconnaissance Concepts and Techniques",
+      "subtitle": "Open Source Intelligence and Web Reconnaissance Concepts and Techniques",
+      "authors": [
+        "Sudhanshu Chauhan"
+      ],
+      "authorLinks": [
+        {
+          "label": "Linkedin",
+          "url": "https://www.linkedin.com/in/sudhanshuchauhan/"
+        }
+      ],
+      "year": 2015,
+      "yearLabel": "2015",
+      "affiliateUrl": "https://www.amazon.com/Hacking-Web-Intelligence-Reconnaissance-Techniques-ebook/dp/B00ZAOBUQ4",
+      "coverUrl": "https://m.media-amazon.com/images/I/41wStMx2ZTL._SX342_SY445_QL70_FMwebp_.jpg",
+      "sourceUrl": "https://github.com/aoc81/OSINT-Books",
+      "section": "OSINT Books",
+      "isFree": false,
+      "language": [
+        "English"
+      ],
+      "review": [],
+      "topics": [],
+      "tags": []
+    },
+    {
+      "slug": "the-tao-of-open-source-intelligence",
+      "title": "The Tao of Open Source Intelligence",
+      "authors": [
+        "Stewart Bertram"
+      ],
+      "authorLinks": [
+        {
+          "label": "Linkedin",
+          "url": "https://www.linkedin.com/in/stewartbertram/"
+        }
+      ],
+      "year": 2015,
+      "yearLabel": "2015",
+      "affiliateUrl": "https://www.amazon.com/Tao-Open-Source-Intelligence-ebook/dp/B00X7LE7NK",
+      "coverUrl": "https://m.media-amazon.com/images/I/51j8u62OCcL._SY445_SX342_QL70_FMwebp_.jpg",
+      "sourceUrl": "https://github.com/aoc81/OSINT-Books",
+      "section": "OSINT Books",
+      "isFree": false,
+      "language": [
+        "English"
+      ],
+      "review": [],
+      "topics": [],
+      "tags": []
+    },
+    {
+      "slug": "psychology-of-intelligence-analysis",
+      "title": "Psychology of Intelligence Analysis",
+      "authors": [
+        "Richards J. Heuer Jr."
+      ],
+      "authorLinks": [],
+      "year": 2007,
+      "yearLabel": "2007",
+      "affiliateUrl": "https://www.amazon.com/Psychology-Intelligence-Analysis-Richards-Heuer/dp/B0016OST3O",
+      "coverUrl": "https://m.media-amazon.com/images/I/41h+uv6pK8L._SY466_.jpg",
+      "sourceUrl": "https://github.com/aoc81/OSINT-Books",
+      "section": "OSINT Books",
+      "isFree": false,
+      "language": [
+        "English"
+      ],
+      "editorialSummary": "A foundational analysis text about cognitive bias, mental shortcuts, and the disciplined interpretation of incomplete information.",
+      "review": [
+        "The enduring value of this book is that it names the mental failures that can corrupt even a well-sourced investigation. Collection can be excellent and conclusions can still be weak if the analyst overfits, anchors too early, or mistakes coherence for truth.",
+        "That makes it less glamorous than a tools book but often more important. It is best read by people who already gather information and need to sharpen how they evaluate it."
+      ],
+      "whyItMatters": "It remains essential when the real problem is not finding data but resisting the analytical errors that distort how that data is understood.",
+      "whoItsFor": "Analysts, editors, intelligence practitioners, and senior researchers building stronger judgment discipline.",
+      "readingLevel": "Advanced",
+      "topics": [
+        "Analysis",
+        "Cognitive Bias"
+      ],
+      "tags": [
+        "Classic",
+        "Reasoning",
+        "Analysis"
+      ]
+    },
+    {
+      "slug": "intelligence-from-secrets-to-policy",
+      "title": "Intelligence: From Secrets to Policy",
+      "subtitle": "From Secrets to Policy",
+      "authors": [
+        "Mark M. Lowenthal"
+      ],
+      "authorLinks": [
+        {
+          "label": "Linkedin",
+          "url": "https://www.linkedin.com/in/mark-lowenthal-8225873/"
+        }
+      ],
+      "year": 2003,
+      "yearLabel": "2003",
+      "affiliateUrl": "https://www.amazon.com/Intelligence-Secrets-Mark-M-Lowenthal/dp/1568027591",
+      "coverUrl": "https://m.media-amazon.com/images/I/51NFY1KKJVL._SY466_.jpg",
+      "sourceUrl": "https://github.com/aoc81/OSINT-Books",
+      "section": "OSINT Books",
+      "isFree": false,
+      "language": [
+        "English"
+      ],
+      "review": [],
+      "topics": [],
+      "tags": []
+    },
+    {
+      "slug": "investigators-guide-to-open-source-intelligence",
+      "title": "Investigators Guide to Open Source Intelligence",
+      "authors": [
+        "Craig Pedersen"
+      ],
+      "authorLinks": [
+        {
+          "label": "Linkedin",
+          "url": "https://www.linkedin.com/in/craig-pedersen-forensics/"
+        }
+      ],
+      "year": 0,
+      "yearLabel": "?",
+      "affiliateUrl": "https://books.osint.co.za/investigators-guide-to-osint",
+      "coverUrl": "https://d2j6dbq0eux0bg.cloudfront.net/images/78526532/3411770790.jpg",
+      "sourceUrl": "https://github.com/aoc81/OSINT-Books",
+      "section": "OSINT Books",
+      "isFree": false,
+      "language": [
+        "English"
+      ],
+      "editorialSummary": "A practitioner-facing guide that presents OSINT through the needs of working investigators rather than through platform culture or theory.",
+      "review": [
+        "This title earns its place by staying close to investigative use. It is oriented toward people who need public-source methods to answer live questions, build cases, and move from scattered information to workable leads.",
+        "It also broadens the catalog beyond Amazon-centered discovery. That matters editorially because it keeps the shelf tied to the wider OSINT ecosystem rather than to a single retail channel."
+      ],
+      "whyItMatters": "It offers a direct operational entry point for investigators and reinforces that useful OSINT material exists outside the usual retail path.",
+      "whoItsFor": "Beginners, investigators, forensics-adjacent practitioners, and readers looking for a practical first step into OSINT.",
+      "readingLevel": "Beginner",
+      "topics": [
+        "Methodology",
+        "Research"
+      ],
+      "tags": [
+        "Access",
+        "Practical",
+        "Investigator"
+      ]
+    },
+    {
+      "slug": "osint-wie-sie-informationen-finden-verifizieren-und-verknupfen",
+      "title": "OSINT. Wie Sie Informationen finden, verifizieren und verknüpfen",
+      "authors": [
+        "Samuel Lolagar"
+      ],
+      "authorLinks": [
+        {
+          "label": "Linkedin",
+          "url": "https://www.linkedin.com/in/lolagar/"
+        }
+      ],
+      "year": 2026,
+      "yearLabel": "2026",
+      "affiliateUrl": "https://www.rheinwerk-verlag.de/osint-wie-sie-informationen-finden-verifizieren-und-verknupfen/",
+      "coverUrl": "https://s3-eu-west-1.amazonaws.com/cover2.galileo-press.de/print/9783367103744_267.png",
+      "sourceUrl": "https://github.com/aoc81/OSINT-Books",
+      "section": "German OSINT books",
+      "isFree": false,
+      "language": [
+        "German"
+      ],
+      "review": [],
+      "topics": [],
+      "tags": []
+    },
+    {
+      "slug": "satellitenbilder-und-open-source-intelligence-in-konflikten-transparenz-deutung-und-die-neue-macht-offentlicher-beweise",
+      "title": "Satellitenbilder und Open-Source-Intelligence in Konflikten: Transparenz, Deutung und die neue Macht öffentlicher Beweise",
+      "subtitle": "Transparenz, Deutung und die neue Macht öffentlicher Beweise",
+      "authors": [
+        "Anna Keller"
+      ],
+      "authorLinks": [],
+      "year": 2026,
+      "yearLabel": "2026",
+      "affiliateUrl": "https://www.amazon.com/Satellitenbilder-Open-Source-Intelligence-Konflikten-Transparenz-%C3%B6ffentlicher/dp/3565371773/",
+      "coverUrl": "https://m.media-amazon.com/images/I/51z3hX5+cJL._SY445_SX342_FMwebp_.jpg",
+      "sourceUrl": "https://github.com/aoc81/OSINT-Books",
+      "section": "German OSINT books",
+      "isFree": false,
+      "language": [
+        "German"
+      ],
+      "review": [],
+      "topics": [],
+      "tags": []
+    },
+    {
+      "slug": "von-der-osint-analyse-zur-social-engineering-attacke-wie-frei-verfugbare-informationen-zu-realen-sicherheitsrisiken-werden",
+      "title": "Von der OSINT-Analyse zur Social-Engineering-Attacke: Wie frei verfügbare Informationen zu realen Sicherheitsrisiken werden",
+      "subtitle": "Wie frei verfügbare Informationen zu realen Sicherheitsrisiken werden",
+      "authors": [
+        "Jörg Weidemann"
+      ],
+      "authorLinks": [],
+      "year": 2026,
+      "yearLabel": "2026",
+      "affiliateUrl": "https://www.amazon.com/Von-OSINT-Analyse-Social-Engineering-Attacke-Informationen-Sicherheitsrisiken-ebook/dp/B0GRGMVYJ1/",
+      "coverUrl": "https://m.media-amazon.com/images/I/61WXhj0ktPL._SY425_.jpg",
+      "sourceUrl": "https://github.com/aoc81/OSINT-Books",
+      "section": "German OSINT books",
+      "isFree": false,
+      "language": [
+        "German"
+      ],
+      "review": [],
+      "topics": [],
+      "tags": []
+    },
+    {
+      "slug": "basiswissen-osint-eine-einfuhrung-in-open-source-intelligence",
+      "title": "Basiswissen OSINT: Eine Einführung in Open Source Intelligence",
+      "subtitle": "Eine Einführung in Open Source Intelligence",
+      "authors": [
+        "Mark B."
+      ],
+      "authorLinks": [],
+      "year": 2023,
+      "yearLabel": "2023",
+      "affiliateUrl": "https://www.amazon.com/Basiswissen-OSINT-Einf%C3%BChrung-Source-Intelligence-ebook/dp/B0BX4JJ2HG",
+      "coverUrl": "https://m.media-amazon.com/images/I/81SARvk2exL._SY385_.jpg",
+      "sourceUrl": "https://github.com/aoc81/OSINT-Books",
+      "section": "German OSINT books",
+      "isFree": false,
+      "language": [
+        "German"
+      ],
+      "review": [],
+      "topics": [],
+      "tags": []
+    },
+    {
+      "slug": "jager-der-digitalen-schatten-wie-osint-analysten-menschen-im-internet-aufspuren",
+      "title": "Jäger der Digitalen Schatten: Wie OSINT Analysten Menschen im Internet aufspüren",
+      "subtitle": "Wie OSINT Analysten Menschen im Internet aufspüren",
+      "authors": [
+        "Michael Harms"
+      ],
+      "authorLinks": [],
+      "year": 2023,
+      "yearLabel": "2023",
+      "affiliateUrl": "https://www.amazon.com/J%C3%A4ger-Digitalen-Schatten-Analysten-aufsp%C3%BCren-ebook/dp/B0CF2GRP9D/",
+      "coverUrl": "https://m.media-amazon.com/images/I/71N90yRYgfL._SY466_.jpg",
+      "sourceUrl": "https://github.com/aoc81/OSINT-Books",
+      "section": "German OSINT books",
+      "isFree": false,
+      "language": [
+        "German"
+      ],
+      "review": [],
+      "topics": [],
+      "tags": []
+    },
+    {
+      "slug": "osint-die-kunst-offene-informationen-zu-sammeln-digitale-gesellschaft-der-wachsende-einfluss-der-online-informationssammlung",
+      "title": "OSINT : Die Kunst, offene Informationen zu sammeln: Digitale Gesellschaft : Der wachsende Einfluss der Online-Informationssammlung",
+      "subtitle": "Die Kunst, offene Informationen zu sammeln: Digitale Gesellschaft : Der wachsende Einfluss der Online-Informationssammlung",
+      "authors": [
+        "David Anderson"
+      ],
+      "authorLinks": [],
+      "year": 2023,
+      "yearLabel": "2023",
+      "affiliateUrl": "https://www.amazon.com/OSINT-Informationen-Gesellschaft-wachsende-Online-Informationssammlung-ebook/dp/B0CGXVWKQY/",
+      "coverUrl": "https://m.media-amazon.com/images/I/41afA9YXQvL._SY445_SX342_QL70_FMwebp_.jpg",
+      "sourceUrl": "https://github.com/aoc81/OSINT-Books",
+      "section": "German OSINT books",
+      "isFree": false,
+      "language": [
+        "German"
+      ],
+      "review": [],
+      "topics": [],
+      "tags": []
+    },
+    {
+      "slug": "osint-burger-ermitteln-im-internet-geheimdienste-15",
+      "title": "OSINT: Bürger ermitteln im Internet (Geheimdienste 15)",
+      "subtitle": "Bürger ermitteln im Internet (Geheimdienste 15)",
+      "authors": [
+        "Georg Erwin Thaller"
+      ],
+      "authorLinks": [],
+      "year": 2023,
+      "yearLabel": "2023",
+      "affiliateUrl": "https://www.amazon.com/OSINT-B%C3%BCrger-ermitteln-Internet-Geheimdienste-ebook/dp/B0BTBV2MNG/",
+      "coverUrl": "https://m.media-amazon.com/images/I/71p-3VFo+1L._SY466_.jpg",
+      "sourceUrl": "https://github.com/aoc81/OSINT-Books",
+      "section": "German OSINT books",
+      "isFree": false,
+      "language": [
+        "German"
+      ],
+      "review": [],
+      "topics": [],
+      "tags": []
+    },
+    {
+      "slug": "investigative-journalism-revised-new-edition-a-professional-handbook-for-candidate-and-early-career-journalists",
+      "title": "INVESTIGATIVE JOURNALISM - Revised New Edition: A Professional Handbook for Candidate and Early-Career Journalists",
+      "subtitle": "A Professional Handbook for Candidate and Early-Career Journalists",
+      "authors": [
+        "Osman Karakas"
+      ],
+      "authorLinks": [
+        {
+          "label": "Linkedin",
+          "url": "https://www.linkedin.com/in/osman-karakas-421a3319/"
+        }
+      ],
+      "year": 2025,
+      "yearLabel": "2025",
+      "affiliateUrl": "https://www.amazon.com/INVESTIGATIVE-JOURNALISM-Professional-Early-Career-Journalists-ebook/dp/B0FFZSP5WL/",
+      "coverUrl": "https://m.media-amazon.com/images/I/81N1EZZ6POL._SY466_.jpg",
+      "sourceUrl": "https://github.com/aoc81/OSINT-Books",
+      "section": "Investigative Journalism Books",
+      "isFree": false,
+      "language": [
+        "English"
+      ],
+      "review": [],
+      "topics": [],
+      "tags": []
+    },
+    {
+      "slug": "breaking-news-a-guide-to-investigative-journalism",
+      "title": "Breaking News: A Guide to Investigative Journalism",
+      "subtitle": "A Guide to Investigative Journalism",
+      "authors": [
+        "Liam Robert Mullen"
+      ],
+      "authorLinks": [],
+      "year": 2024,
+      "yearLabel": "2024",
+      "affiliateUrl": "https://www.amazon.com/Breaking-News-Guide-Investigative-Journalism-ebook/dp/B0CW1FSFXH/",
+      "coverUrl": "https://m.media-amazon.com/images/I/813WT8E2f0L._SY522_.jpg",
+      "sourceUrl": "https://github.com/aoc81/OSINT-Books",
+      "section": "Investigative Journalism Books",
+      "isFree": false,
+      "language": [
+        "English"
+      ],
+      "review": [],
+      "topics": [],
+      "tags": []
+    },
+    {
+      "slug": "hybrid-investigative-journalism",
+      "title": "Hybrid Investigative Journalism",
+      "authors": [
+        "Maria Konow-Lund",
+        "Michelle Park",
+        "Saba Bebawi"
+      ],
+      "authorLinks": [
+        {
+          "label": "Linkedin",
+          "url": "https://www.linkedin.com/in/maria-konow-lund-0965ab281/"
+        }
+      ],
+      "year": 2024,
+      "yearLabel": "2024",
+      "affiliateUrl": "https://link.springer.com/book/10.1007/978-3-031-41939-3",
+      "coverUrl": "https://media.springernature.com/w316/springer-static/cover/book/978-3-031-41939-3.jpg?as=webp",
+      "sourceUrl": "https://github.com/aoc81/OSINT-Books",
+      "section": "Investigative Journalism Books",
+      "isFree": false,
+      "language": [
+        "English"
+      ],
+      "review": [],
+      "topics": [],
+      "tags": []
+    },
+    {
+      "slug": "investigative-journalism-a-contemporary-practice-and-practical-guide-to-investigative-and-interpretative-reporting",
+      "title": "INVESTIGATIVE JOURNALISM : A Contemporary Practice and Practical Guide to Investigative and Interpretative Reporting",
+      "subtitle": "A Contemporary Practice and Practical Guide to Investigative and Interpretative Reporting",
+      "authors": [
+        "John Asegiemhe"
+      ],
+      "authorLinks": [
+        {
+          "label": "Linkedin",
+          "url": "https://www.linkedin.com/in/john-asegiemhe-755410264/"
+        }
+      ],
+      "year": 2022,
+      "yearLabel": "2022",
+      "affiliateUrl": "https://www.amazon.com/INVESTIGATIVE-JOURNALISM-Contemporary-Investigative-Interpretative-ebook/dp/B0BR2NVXPF/",
+      "coverUrl": "https://m.media-amazon.com/images/I/61v+ymOfgXL._SY522_.jpg",
+      "sourceUrl": "https://github.com/aoc81/OSINT-Books",
+      "section": "Investigative Journalism Books",
+      "isFree": false,
+      "language": [
+        "English"
+      ],
+      "review": [],
+      "topics": [],
+      "tags": []
+    },
+    {
+      "slug": "investigative-journalism-handbook",
+      "title": "Investigative Journalism Handbook",
+      "authors": [
+        "Al Jazeera Media Institute"
+      ],
+      "authorLinks": [
+        {
+          "label": "Linkedin",
+          "url": "https://www.linkedin.com/company/al-jazeera-media-institute/"
+        }
+      ],
+      "year": 2020,
+      "yearLabel": "2020",
+      "affiliateUrl": "https://institute.aljazeera.net/sites/default/files/2020/Investigative%20Journalism%20Handbook_0.pdf",
+      "coverUrl": "https://elearning.aljazeera.net/sites/default/files/pages/2023/Investigative%20Journalism%20Handbook_0.jpg",
+      "sourceUrl": "https://github.com/aoc81/OSINT-Books",
+      "section": "Investigative Journalism Books",
+      "isFree": true,
+      "language": [
+        "English"
+      ],
+      "review": [],
+      "topics": [],
+      "tags": []
+    },
+    {
+      "slug": "investigative-reporter-s-handbook-a-guide-to-documents-databases-and-techniques",
+      "title": "Investigative Reporter's Handbook: A Guide to Documents, Databases, and Techniques",
+      "subtitle": "A Guide to Documents, Databases, and Techniques",
+      "authors": [
+        "Brant Houston"
+      ],
+      "authorLinks": [
+        {
+          "label": "Linkedin",
+          "url": "https://www.linkedin.com/in/brant-houston-b868978/"
+        }
+      ],
+      "year": 2020,
+      "yearLabel": "2020",
+      "affiliateUrl": "https://www.amazon.co.uk/Investigative-Reporters-Handbook-Documents-Techniques/dp/1319102840/",
+      "coverUrl": "https://m.media-amazon.com/images/I/71NygQNAZJL._SY522_.jpg",
+      "sourceUrl": "https://github.com/aoc81/OSINT-Books",
+      "section": "Investigative Journalism Books",
+      "isFree": false,
+      "language": [
+        "English"
+      ],
+      "review": [],
+      "topics": [],
+      "tags": []
+    },
+    {
+      "slug": "verification-handbook-for-disinformation-and-media-manipulation",
+      "title": "Verification Handbook For Disinformation And Media Manipulation",
+      "authors": [
+        "Craig Silverman"
+      ],
+      "authorLinks": [
+        {
+          "label": "Linkedin",
+          "url": "https://www.linkedin.com/in/craigjsilverman/"
+        }
+      ],
+      "year": 2020,
+      "yearLabel": "2020",
+      "affiliateUrl": "https://datajournalism.com/read/handbook/verification-3",
+      "coverUrl": "https://s3.eu-central-1.amazonaws.com/datajournalismcom/handbooks/verification-3/VERIFICATION-HANDBOOK-3-RIGHT-1.png",
+      "sourceUrl": "https://github.com/aoc81/OSINT-Books",
+      "section": "Investigative Journalism Books",
+      "isFree": true,
+      "language": [
+        "English"
+      ],
+      "review": [],
+      "topics": [],
+      "tags": []
+    },
+    {
+      "slug": "citizen-investigation-guide",
+      "title": "Citizen Investigation Guide",
+      "authors": [
+        "Global Investigation Journalism Network"
+      ],
+      "authorLinks": [
+        {
+          "label": "Linkedin",
+          "url": "https://www.linkedin.com/company/global-investigative-journalism-network/"
+        }
+      ],
+      "year": 2019,
+      "yearLabel": "2019",
+      "affiliateUrl": "https://gijn.org/resource/citizen-investigation-guide/",
+      "coverUrl": "https://gijn.org/wp-content/uploads/2023/08/Main-CZ-Title_transparency_150dpi.png",
+      "sourceUrl": "https://github.com/aoc81/OSINT-Books",
+      "section": "Investigative Journalism Books",
+      "isFree": true,
+      "language": [
+        "English"
+      ],
+      "review": [],
+      "topics": [],
+      "tags": []
+    },
+    {
+      "slug": "investigative-journalism-a-survival-guide",
+      "title": "Investigative Journalism: A Survival Guide",
+      "subtitle": "A Survival Guide",
+      "authors": [
+        "David Leigh"
+      ],
+      "authorLinks": [],
+      "year": 2019,
+      "yearLabel": "2019",
+      "affiliateUrl": "https://www.amazon.com/Investigative-Journalism-Survival-David-Leigh-ebook/dp/B07XQ67JG3/",
+      "coverUrl": "https://m.media-amazon.com/images/I/61y1e44BF8L._SY425_.jpg",
+      "sourceUrl": "https://github.com/aoc81/OSINT-Books",
+      "section": "Investigative Journalism Books",
+      "isFree": false,
+      "language": [
+        "English"
+      ],
+      "review": [],
+      "topics": [],
+      "tags": []
+    },
+    {
+      "slug": "the-hidden-scenario",
+      "title": "The Hidden Scenario",
+      "authors": [
+        "Luuk Sengers",
+        "Mark Lee Hunter"
+      ],
+      "authorLinks": [
+        {
+          "label": "Linkedin",
+          "url": "https://www.linkedin.com/in/luuk-sengers-2a26144/"
+        }
+      ],
+      "year": 2019,
+      "yearLabel": "2019",
+      "affiliateUrl": "https://tcij.org/handbooks/the-hidden-scenario/",
+      "coverUrl": "https://tcij.org/wp-content/uploads/2019/07/hiddenscenariocover-small.jpg",
+      "sourceUrl": "https://github.com/aoc81/OSINT-Books",
+      "section": "Investigative Journalism Books",
+      "isFree": true,
+      "language": [
+        "English"
+      ],
+      "review": [],
+      "topics": [],
+      "tags": []
+    },
+    {
+      "slug": "the-story-tells-the-facts",
+      "title": "The Story Tells the Facts",
+      "authors": [
+        "Luuk Sengers",
+        "Mark Lee Hunter"
+      ],
+      "authorLinks": [
+        {
+          "label": "Linkedin",
+          "url": "https://www.linkedin.com/in/mark-lee-hunter-0770212/"
+        }
+      ],
+      "year": 2019,
+      "yearLabel": "2019",
+      "affiliateUrl": "https://tcij.org/handbooks/the-story-tells-the-facts/",
+      "coverUrl": "https://tcij.org/wp-content/uploads/2019/07/facts.jpg",
+      "sourceUrl": "https://github.com/aoc81/OSINT-Books",
+      "section": "Investigative Journalism Books",
+      "isFree": true,
+      "language": [
+        "English"
+      ],
+      "review": [],
+      "topics": [],
+      "tags": []
+    },
+    {
+      "slug": "investigative-practice",
+      "title": "Investigative Practice",
+      "authors": [
+        "Tom Sanderson"
+      ],
+      "authorLinks": [
+        {
+          "label": "Linkedin",
+          "url": "https://www.linkedin.com/in/tom-sanderson-68129923/"
+        }
+      ],
+      "year": 2018,
+      "yearLabel": "2018",
+      "affiliateUrl": "https://tcij.org/handbooks/investigative-practice/",
+      "coverUrl": "https://tcij.org/wp-content/uploads/2022/03/IP-cover-1-212x300-2.png",
+      "sourceUrl": "https://github.com/aoc81/OSINT-Books",
+      "section": "Investigative Journalism Books",
+      "isFree": true,
+      "language": [
+        "English"
+      ],
+      "review": [],
+      "topics": [],
+      "tags": []
+    },
+    {
+      "slug": "the-science-writers-investigative-reporting-handbook",
+      "title": "The Science Writers’ Investigative Reporting Handbook",
+      "authors": [
+        "Liza Gross"
+      ],
+      "authorLinks": [
+        {
+          "label": "Linkedin",
+          "url": "https://www.linkedin.com/in/lizagross/"
+        }
+      ],
+      "year": 2018,
+      "yearLabel": "2018",
+      "affiliateUrl": "https://www.nasw.org/bookstore/science-writers-investigative-reporting-handbook",
+      "coverUrl": "https://www.nasw.org/sites/default/files/advertisement/AC_1808_Gross_Reporting_Handbook_cover.jpg",
+      "sourceUrl": "https://github.com/aoc81/OSINT-Books",
+      "section": "Investigative Journalism Books",
+      "isFree": false,
+      "language": [
+        "English"
+      ],
+      "review": [],
+      "topics": [],
+      "tags": []
+    },
+    {
+      "slug": "global-muckraking-100-years-of-investigative-journalism-from-around-the-world",
+      "title": "Global Muckraking: 100 Years of Investigative Journalism from Around the World",
+      "subtitle": "100 Years of Investigative Journalism from Around the World",
+      "authors": [
+        "Anya Schiffrin"
+      ],
+      "authorLinks": [
+        {
+          "label": "Linkedin",
+          "url": "https://www.linkedin.com/in/anya-schiffrin-1459097/"
+        }
+      ],
+      "year": 2014,
+      "yearLabel": "2014",
+      "affiliateUrl": "https://www.amazon.com/Global-Muckraking-Investigative-Journalism-Around-ebook/dp/B00J1K3TKI/",
+      "coverUrl": "https://m.media-amazon.com/images/I/71caLVSCL1L._SY466_.jpg",
+      "sourceUrl": "https://github.com/aoc81/OSINT-Books",
+      "section": "Investigative Journalism Books",
+      "isFree": false,
+      "language": [
+        "English"
+      ],
+      "review": [],
+      "topics": [],
+      "tags": []
+    },
+    {
+      "slug": "the-investigative-journalist-s-guide-to-company-accounts",
+      "title": "The Investigative Journalist’s Guide to Company Accounts",
+      "authors": [
+        "Raj Bairoliya"
+      ],
+      "authorLinks": [
+        {
+          "label": "Linkedin",
+          "url": "https://www.linkedin.com/in/raj-bairoliya-913833/"
+        }
+      ],
+      "year": 2014,
+      "yearLabel": "2014",
+      "affiliateUrl": "https://tcij.org/handbooks/the-investigative-journalists-guide-to-company-accounts/",
+      "coverUrl": "https://tcij.org/wp-content/uploads/2019/07/Screenshot-2020-05-05-at-11.12.30-767x1024.png",
+      "sourceUrl": "https://github.com/aoc81/OSINT-Books",
+      "section": "Investigative Journalism Books",
+      "isFree": true,
+      "language": [
+        "English"
+      ],
+      "review": [],
+      "topics": [],
+      "tags": []
+    },
+    {
+      "slug": "digging-deeper-a-guide-for-investigative-journalists-in-the-balkans",
+      "title": "Digging Deeper: A Guide for Investigative Journalists in the Balkans",
+      "subtitle": "A Guide for Investigative Journalists in the Balkans",
+      "authors": [
+        "Sheila Coronel"
+      ],
+      "authorLinks": [
+        {
+          "label": "Linkedin",
+          "url": "https://www.linkedin.com/in/sheilacoronel/"
+        }
+      ],
+      "year": 2012,
+      "yearLabel": "2012",
+      "affiliateUrl": "https://www.amazon.com/Digging-Deeper-Investigative-Journalists-ebook/dp/B007FQEE0Y",
+      "coverUrl": "https://m.media-amazon.com/images/I/51HjVuN0l+L.jpg",
+      "sourceUrl": "https://github.com/aoc81/OSINT-Books",
+      "section": "Investigative Journalism Books",
+      "isFree": false,
+      "language": [
+        "English"
+      ],
+      "review": [],
+      "topics": [],
+      "tags": []
+    },
+    {
+      "slug": "the-global-investigative-journalism-casebook",
+      "title": "The Global investigative journalism casebook",
+      "authors": [
+        "Mark Lee Hunter"
+      ],
+      "authorLinks": [
+        {
+          "label": "Linkedin",
+          "url": "https://www.linkedin.com/in/mark-lee-hunter-0770212/"
+        }
+      ],
+      "year": 2012,
+      "yearLabel": "2012",
+      "affiliateUrl": "https://unesdoc.unesco.org/ark:/48223/pf0000217636",
+      "coverUrl": "https://unesdoc.unesco.org/in/rest/Thumb/image?id=p%3A%3Ausmarcdef_0000217636&isbn=9789230010898&author=Hunter%2C+Mark+Lee&title=The+Global+investigative+journalism+casebook&year=2012&publisher=UNESCO&TypeOfDocument=UnescoPhysicalDocument&mat=BKS&ct=true&size=256&isPhysical=1&siteId=mainSite",
+      "sourceUrl": "https://github.com/aoc81/OSINT-Books",
+      "section": "Investigative Journalism Books",
+      "isFree": true,
+      "language": [
+        "English"
+      ],
+      "review": [],
+      "topics": [],
+      "tags": []
+    },
+    {
+      "slug": "story-based-inquiry-a-manual-for-investigative-journalists",
+      "title": "Story-Based Inquiry: A Manual for Investigative Journalists",
+      "subtitle": "A Manual for Investigative Journalists",
+      "authors": [
+        "Mark Lee Hunter"
+      ],
+      "authorLinks": [
+        {
+          "label": "Linkedin",
+          "url": "https://www.linkedin.com/in/mark-lee-hunter-0770212/"
+        }
+      ],
+      "year": 2009,
+      "yearLabel": "2009",
+      "affiliateUrl": "https://www.storybasedinquiry.com/manual",
+      "coverUrl": "https://cdn.prod.website-files.com/55ffb913802106d003a85d95/55ffedfd5d4501c40ebd0837_Cover%20manual%202014-p-500x702.png",
+      "sourceUrl": "https://github.com/aoc81/OSINT-Books",
+      "section": "Investigative Journalism Books",
+      "isFree": true,
+      "language": [
+        "English"
+      ],
+      "review": [],
+      "topics": [],
+      "tags": []
+    },
+    {
+      "slug": "watchdog-journalism-the-art-of-investigative-reporting",
+      "title": "Watchdog Journalism: The Art of Investigative Reporting",
+      "subtitle": "The Art of Investigative Reporting",
+      "authors": [
+        "Stephen J. Berry"
+      ],
+      "authorLinks": [],
+      "year": 2008,
+      "yearLabel": "2008",
+      "affiliateUrl": "https://www.amazon.com/Watchdog-Journalism-Art-Investigative-Reporting/dp/0195374029",
+      "coverUrl": "https://m.media-amazon.com/images/I/71I1Wsy9KvL._SY466_.jpg",
+      "sourceUrl": "https://github.com/aoc81/OSINT-Books",
+      "section": "Investigative Journalism Books",
+      "isFree": false,
+      "language": [
+        "English"
+      ],
+      "review": [],
+      "topics": [],
+      "tags": []
+    }
+  ]
+}
