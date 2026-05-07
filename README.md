@@ -36,6 +36,7 @@ We tried to select books from the 2020s, but there are a few older books that co
  | ![OFFENSIVE INTELLIGENCE: 300 techniques, tools and tips to know everything about everyone, in business and beyond ](https://m.media-amazon.com/images/I/61j5YBEXUKL._SY385_.jpg) |  OFFENSIVE INTELLIGENCE: 300 techniques, tools and tips to know everything about everyone, in business and beyond  | Philippe Dylewski |[Linkedin](https://www.linkedin.com/in/philippe-dylewski-968910231/) | 2025 | https://www.amazon.com/OFFENSIVE-INTELLIGENCE-techniques-everything-2025-2026/dp/B0DTV5JKZS/ |
  | ![Inteligência e Investigação Criminal em Fontes Abertas ](https://www.editorabrasport.com.br/image/cache/catalog/capa-livro-fisico/9786560960145-482x643.jpg) | Inteligência e Investigação Criminal em Fontes Abertas  | Emerson Wendt  | [Linkedin](https://www.linkedin.com/in/emersonwendt/) | 2024 | https://www.editorabrasport.com.br/inteligencia-e-investigacao-criminal-em-fontes-abertas-4ed |
 | ![OSINT in the intelligence era](https://m.media-amazon.com/images/I/81qaja4lBXL._SY425_.jpg) | OSINT in the intelligence era | Gianluigi Me | [Linkedin](https://www.linkedin.com/in/gianluigime/) | 2023 | https://www.amazon.com/OSINT-Intelligence-Era-Lecture-notes-ebook/dp/B0CFZPL8NY | 
+| ![Española: From hooligans to war machines](https://m.media-amazon.com/images/I/71WnSxx9VaL._SL1500_.jpg) | Española: From hooligans to war machines | Ángel Ortiz |  | 2026 | https://www.amazon.com/Espa%C3%B1ola-hooligans-machines-%C3%81ngel-Ortiz-ebook/dp/B0GYWV1BN4/ |
 
 
 # German OSINT books
@@ -89,6 +90,7 @@ We tried to select books from the 2020s, but there are a few older books that co
 [Top 5 OSINT Books from Social Links](https://blog.sociallinks.io/top-5-books-for-sharpening-your-osint-skills-in-2025/)  
 [OSINT Books Goodreads Rating](https://www.goodreads.com/shelf/show/osint)  
 [OSINT Books List from Aware Online](https://www.aware-online.com/en/osint-books/)  
+
 
 
 
