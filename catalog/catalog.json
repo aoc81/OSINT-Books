@@ -98,9 +98,24 @@
       "language": [
         "English"
       ],
-      "review": [],
-      "topics": [],
-      "tags": []
+      "editorialSummary": "A practical OSINT guide focused on reverse image search, metadata analysis, mapping workflows, and location verification from publicly available visual evidence.",
+      "review": [
+        "This title is built around image-first investigation. It walks through reverse-search tools, EXIF and metadata inspection, mapping services, and the logic of turning a photo or video frame into a location lead.",
+        "Its value is operational rather than theoretical: the book speaks directly to analysts who need to verify imagery, confirm places, and extract geospatial clues from public sources during investigations."
+      ],
+      "whyItMatters": "It sharpens one of the most important OSINT skill sets: moving from visual material to defensible claims about place, time, and authenticity.",
+      "whoItsFor": "OSINT practitioners, journalists, verification teams, and investigators working with images, video, mapping, and geolocation workflows.",
+      "readingLevel": "Intermediate",
+      "topics": [
+        "Verification",
+        "Geolocation",
+        "Research"
+      ],
+      "tags": [
+        "Imagery",
+        "Mapping",
+        "Reverse Search"
+      ]
     },
     {
       "slug": "offensive-intelligence-300-techniques-tools-and-tips-to-know-everything-about-everyone-in-business-and-beyond",
@@ -125,9 +140,23 @@
       "language": [
         "English"
       ],
-      "review": [],
-      "topics": [],
-      "tags": []
+      "editorialSummary": "300 OSINT Techniques, Tools, and Methods for Due Diligence, Background Checks, Fraud Detection, and Business Intelligence Fourth Edition (2025–2026)",
+      "review": [
+        "300 OSINT Techniques, Tools, and Methods for Due Diligence, Background Checks, Fraud Detection, and Business Intelligence Fourth Edition (2025–2026)",
+        "It reinforces repeatable investigative habits rather than relying on disposable tool lists or trend-driven tactics. Best suited to analysts, due diligence teams, and professional researchers working in institutional settings."
+      ],
+      "whyItMatters": "It reinforces repeatable investigative habits rather than relying on disposable tool lists or trend-driven tactics.",
+      "whoItsFor": "Analysts, due diligence teams, and professional researchers working in institutional settings.",
+      "readingLevel": "Advanced",
+      "topics": [
+        "Analysis",
+        "Corporate Intelligence",
+        "Methodology",
+        "Research"
+      ],
+      "tags": [
+        "Research"
+      ]
     },
     {
       "slug": "extreme-privacy-what-it-takes-to-disappear",
@@ -192,9 +221,24 @@
       "language": [
         "Portuguese"
       ],
-      "review": [],
-      "topics": [],
-      "tags": []
+      "editorialSummary": "A Portuguese-language guide to criminal investigation in open sources, with emphasis on OSINT, SOCMINT, safe operating setups, and practical workflows for public-security and investigative work.",
+      "review": [
+        "This edition presents open-source investigation as a working method for modern criminal and intelligence practice. It covers social-media research, investigative assistants, secure environments such as proxy, VPN, and virtual machines, and updated digital tools.",
+        "The book is most useful as an applied field guide for readers who need practical investigative steps rather than abstract discussion, especially in policing, legal, and public-security contexts."
+      ],
+      "whyItMatters": "It gives the catalog a concrete non-English reference for operational OSINT and criminal-investigation practice in a public-security setting.",
+      "whoItsFor": "Portuguese-speaking police, analysts, journalists, lawyers, and digital investigators who need usable open-source and social-media research techniques.",
+      "readingLevel": "Intermediate",
+      "topics": [
+        "Methodology",
+        "Research",
+        "Operational Security"
+      ],
+      "tags": [
+        "Portuguese",
+        "Criminal Investigation",
+        "SOCMINT"
+      ]
     },
     {
       "slug": "open-source-investigations-in-the-age-of-google",
@@ -338,9 +382,24 @@
       "language": [
         "English"
       ],
-      "review": [],
-      "topics": [],
-      "tags": []
+      "editorialSummary": "A broad handbook on intelligence fundamentals, covering core terminology, the intelligence cycle, analytic products, and the practical mechanics of producing decision-support work.",
+      "review": [
+        "Written as a foundational guide, this book explains the principles that underpin intelligence activity and pairs them with case studies and diagrams so readers can see how the pieces fit together in practice.",
+        "It is less about one OSINT niche than about the larger discipline around collection, analysis, and delivery. That makes it useful for readers who want to understand where open-source work sits inside a wider intelligence process."
+      ],
+      "whyItMatters": "It helps readers connect OSINT tradecraft to the broader structure of professional intelligence work instead of treating research as a disconnected tool exercise.",
+      "whoItsFor": "Aspiring analysts, early-career intelligence practitioners, and OSINT readers who want a stronger grounding in the wider intelligence cycle.",
+      "readingLevel": "Intermediate",
+      "topics": [
+        "Analysis",
+        "Methodology",
+        "Research"
+      ],
+      "tags": [
+        "Intelligence Cycle",
+        "Tradecraft",
+        "Case Studies"
+      ]
     },
     {
       "slug": "deep-dive-exploring-the-real-world-value-of-open-source-intelligence",
@@ -405,9 +464,22 @@
       "language": [
         "English"
       ],
-      "review": [],
-      "topics": [],
-      "tags": []
+      "editorialSummary": "Audible: Plans now starting at $8.99/month",
+      "review": [
+        "Audible: Plans now starting at $8.99/month",
+        "It reinforces repeatable investigative habits rather than relying on disposable tool lists or trend-driven tactics. Best suited to readers building practical OSINT familiarity, investigative researchers, and adjacent professionals entering the field."
+      ],
+      "whyItMatters": "It reinforces repeatable investigative habits rather than relying on disposable tool lists or trend-driven tactics.",
+      "whoItsFor": "Readers building practical OSINT familiarity, investigative researchers, and adjacent professionals entering the field.",
+      "readingLevel": "Advanced",
+      "topics": [
+        "Analysis",
+        "Methodology",
+        "Research"
+      ],
+      "tags": [
+        "Research"
+      ]
     },
     {
       "slug": "the-open-source-intelligence-guide",
@@ -431,9 +503,22 @@
       "language": [
         "English"
       ],
-      "review": [],
-      "topics": [],
-      "tags": []
+      "editorialSummary": "Audible: Plans now starting at $8.99/month",
+      "review": [
+        "Audible: Plans now starting at $8.99/month",
+        "It reinforces repeatable investigative habits rather than relying on disposable tool lists or trend-driven tactics. Best suited to readers building practical OSINT familiarity, investigative researchers, and adjacent professionals entering the field."
+      ],
+      "whyItMatters": "It reinforces repeatable investigative habits rather than relying on disposable tool lists or trend-driven tactics.",
+      "whoItsFor": "Readers building practical OSINT familiarity, investigative researchers, and adjacent professionals entering the field.",
+      "readingLevel": "Advanced",
+      "topics": [
+        "Analysis",
+        "Methodology",
+        "Research"
+      ],
+      "tags": [
+        "Research"
+      ]
     },
     {
       "slug": "the-open-source-intelligence-guide-how-to-investigate-anyone-or-anything-on-the-internet",
@@ -499,9 +584,23 @@
       "language": [
         "English"
       ],
-      "review": [],
-      "topics": [],
-      "tags": []
+      "editorialSummary": "The definitive handbook of business intelligence.",
+      "review": [
+        "The definitive handbook of business intelligence.",
+        "It reinforces repeatable investigative habits rather than relying on disposable tool lists or trend-driven tactics. Best suited to analysts, due diligence teams, and professional researchers working in institutional settings."
+      ],
+      "whyItMatters": "It reinforces repeatable investigative habits rather than relying on disposable tool lists or trend-driven tactics.",
+      "whoItsFor": "Analysts, due diligence teams, and professional researchers working in institutional settings.",
+      "readingLevel": "Advanced",
+      "topics": [
+        "Analysis",
+        "Corporate Intelligence",
+        "Methodology",
+        "Research"
+      ],
+      "tags": [
+        "Research"
+      ]
     },
     {
       "slug": "operator-handbook-red-team-osint-blue-team-reference",
@@ -521,9 +620,23 @@
       "language": [
         "English"
       ],
-      "review": [],
-      "topics": [],
-      "tags": []
+      "editorialSummary": "Your recently viewed items and featured recommendations › View or edit your browsing history After viewing product detail pages, look here to find an easy way to navigate back to pages you are interested in.",
+      "review": [
+        "Your recently viewed items and featured recommendations › View or edit your browsing history After viewing product detail pages, look here to find an easy way to navigate back to pages you are interested in.",
+        "Useful when the reader needs background on how a scene, network, or armed formation developed before trying to interpret current actors and signals. Best suited to conflict researchers, journalists, extremist-network analysts, and OSINT practitioners following the evolution of militant or adjacent subcultures."
+      ],
+      "whyItMatters": "Useful when the reader needs background on how a scene, network, or armed formation developed before trying to interpret current actors and signals.",
+      "whoItsFor": "Conflict researchers, journalists, extremist-network analysts, and OSINT practitioners following the evolution of militant or adjacent subcultures.",
+      "readingLevel": "Advanced",
+      "topics": [
+        "Field History",
+        "Methodology",
+        "Research"
+      ],
+      "tags": [
+        "History",
+        "Research"
+      ]
     },
     {
       "slug": "the-internet-intelligence-and-investigation-handbook-a-practical-guide-to-internet-investigation",
@@ -548,9 +661,24 @@
       "language": [
         "English"
       ],
-      "review": [],
-      "topics": [],
-      "tags": []
+      "editorialSummary": "Internet Intelligence & Investigation is a powerful tool against crime, however, the collection of internet data and information is heavily regulated.",
+      "review": [
+        "Internet Intelligence & Investigation is a powerful tool against crime, however, the collection of internet data and information is heavily regulated.",
+        "Improper use of the internet for investigative purposes can put an investigator and their employer at physical, financial and legal risk.",
+        "It reinforces repeatable investigative habits rather than relying on disposable tool lists or trend-driven tactics. Best suited to readers building practical OSINT familiarity, investigative researchers, and adjacent professionals entering the field."
+      ],
+      "whyItMatters": "It reinforces repeatable investigative habits rather than relying on disposable tool lists or trend-driven tactics.",
+      "whoItsFor": "Readers building practical OSINT familiarity, investigative researchers, and adjacent professionals entering the field.",
+      "readingLevel": "Advanced",
+      "topics": [
+        "Analysis",
+        "Operational Security",
+        "Methodology",
+        "Research"
+      ],
+      "tags": [
+        "Research"
+      ]
     },
     {
       "slug": "we-are-bellingcat-global-crime-online-sleuths-and-the-bold-future-of-news",
@@ -695,9 +823,25 @@
       "language": [
         "English"
       ],
-      "review": [],
-      "topics": [],
-      "tags": []
+      "editorialSummary": "The skills and tools for collecting, verifying and correlating information from different types of systems is an essential skill when tracking down hackers.",
+      "review": [
+        "The skills and tools for collecting, verifying and correlating information from different types of systems is an essential skill when tracking down hackers.",
+        "This book explores Open Source Intelligence Gathering (OSINT) inside out from multiple perspectives, including those of hackers and seasoned intelligence experts.",
+        "It reinforces repeatable investigative habits rather than relying on disposable tool lists or trend-driven tactics. Best suited to readers building practical OSINT familiarity, investigative researchers, and adjacent professionals entering the field."
+      ],
+      "whyItMatters": "It reinforces repeatable investigative habits rather than relying on disposable tool lists or trend-driven tactics.",
+      "whoItsFor": "Readers building practical OSINT familiarity, investigative researchers, and adjacent professionals entering the field.",
+      "readingLevel": "Advanced",
+      "topics": [
+        "Analysis",
+        "Operational Security",
+        "Cybersecurity",
+        "Methodology",
+        "Research"
+      ],
+      "tags": [
+        "Research"
+      ]
     },
     {
       "slug": "osint-tools-in-local-government-so-what-can-be-checked",
@@ -717,9 +861,21 @@
       "language": [
         "English"
       ],
-      "review": [],
-      "topics": [],
-      "tags": []
+      "editorialSummary": "Audible: Plans now starting at $8.99/month",
+      "review": [
+        "Audible: Plans now starting at $8.99/month",
+        "It reinforces repeatable investigative habits rather than relying on disposable tool lists or trend-driven tactics. Best suited to readers building practical OSINT familiarity, investigative researchers, and adjacent professionals entering the field."
+      ],
+      "whyItMatters": "It reinforces repeatable investigative habits rather than relying on disposable tool lists or trend-driven tactics.",
+      "whoItsFor": "Readers building practical OSINT familiarity, investigative researchers, and adjacent professionals entering the field.",
+      "readingLevel": "Intermediate",
+      "topics": [
+        "Methodology",
+        "Research"
+      ],
+      "tags": [
+        "Research"
+      ]
     },
     {
       "slug": "hack-the-world-with-osint",
@@ -743,9 +899,24 @@
       "language": [
         "English"
       ],
-      "review": [],
-      "topics": [],
-      "tags": []
+      "editorialSummary": "A technically oriented OSINT book that pushes from internet reconnaissance into exposed systems, network services, IoT, and industrial-control environments.",
+      "review": [
+        "Rather than stopping at simple profile research, this book moves into adversarial discovery: vulnerable hosts, misconfigured services, exposed devices, and the kinds of infrastructure an attacker or defender can surface with open sources.",
+        "It reads like a crossover between reconnaissance, cyber investigation, and hacker field notes. That makes it especially relevant for readers interested in where OSINT meets technical attack surface analysis."
+      ],
+      "whyItMatters": "It expands the shelf beyond people-and-profile research and shows how OSINT can expose technical risk in networks, devices, and industrial systems.",
+      "whoItsFor": "Cybersecurity practitioners, red teamers, defenders, and technically inclined OSINT researchers working on internet-exposed infrastructure.",
+      "readingLevel": "Advanced",
+      "topics": [
+        "Cybersecurity",
+        "Research",
+        "Operational Security"
+      ],
+      "tags": [
+        "Reconnaissance",
+        "IoT",
+        "ICS"
+      ]
     },
     {
       "slug": "osint-for-the-staffing-world",
@@ -769,9 +940,21 @@
       "language": [
         "English"
       ],
-      "review": [],
-      "topics": [],
-      "tags": []
+      "editorialSummary": "Audible: Plans now starting at $8.99/month",
+      "review": [
+        "Audible: Plans now starting at $8.99/month",
+        "It reinforces repeatable investigative habits rather than relying on disposable tool lists or trend-driven tactics. Best suited to readers building practical OSINT familiarity, investigative researchers, and adjacent professionals entering the field."
+      ],
+      "whyItMatters": "It reinforces repeatable investigative habits rather than relying on disposable tool lists or trend-driven tactics.",
+      "whoItsFor": "Readers building practical OSINT familiarity, investigative researchers, and adjacent professionals entering the field.",
+      "readingLevel": "Intermediate",
+      "topics": [
+        "Methodology",
+        "Research"
+      ],
+      "tags": [
+        "Research"
+      ]
     },
     {
       "slug": "open-source-intelligence-methods-and-tools-a-practical-guide-to-online-intelligence",
@@ -796,9 +979,27 @@
       "language": [
         "English"
       ],
-      "review": [],
-      "topics": [],
-      "tags": []
+      "editorialSummary": "Apply Open Source Intelligence (OSINT) techniques, methods, and tools to acquire information from publicly available online sources to support your intelligence analysis.",
+      "review": [
+        "Apply Open Source Intelligence (OSINT) techniques, methods, and tools to acquire information from publicly available online sources to support your intelligence analysis.",
+        "Use the harvested data in different scenarios such as financial, crime, and terrorism investigations as well as performing business competition analysis and acquiring intelligence about individuals and other entities.",
+        "Useful when the reader needs background on how a scene, network, or armed formation developed before trying to interpret current actors and signals. Best suited to conflict researchers, journalists, extremist-network analysts, and OSINT practitioners following the evolution of militant or adjacent subcultures."
+      ],
+      "whyItMatters": "Useful when the reader needs background on how a scene, network, or armed formation developed before trying to interpret current actors and signals.",
+      "whoItsFor": "Conflict researchers, journalists, extremist-network analysts, and OSINT practitioners following the evolution of militant or adjacent subcultures.",
+      "readingLevel": "Advanced",
+      "topics": [
+        "Analysis",
+        "Corporate Intelligence",
+        "Field History",
+        "Methodology",
+        "Research"
+      ],
+      "tags": [
+        "Conflict",
+        "History",
+        "Research"
+      ]
     },
     {
       "slug": "down-the-rabbit-hole-an-osint-journey-open-source-intelligence-gathering-for-penetration-testing",
@@ -823,9 +1024,28 @@
       "language": [
         "English"
       ],
-      "review": [],
-      "topics": [],
-      "tags": []
+      "editorialSummary": "Do you enjoy the reconnaissance part of a penetration testing?",
+      "review": [
+        "Do you enjoy the reconnaissance part of a penetration testing?",
+        "Want to discover issues on your network, assets or applications proactively?",
+        "Useful when the reader needs background on how a scene, network, or armed formation developed before trying to interpret current actors and signals. Best suited to conflict researchers, journalists, extremist-network analysts, and OSINT practitioners following the evolution of militant or adjacent subcultures."
+      ],
+      "whyItMatters": "Useful when the reader needs background on how a scene, network, or armed formation developed before trying to interpret current actors and signals.",
+      "whoItsFor": "Conflict researchers, journalists, extremist-network analysts, and OSINT practitioners following the evolution of militant or adjacent subcultures.",
+      "readingLevel": "Advanced",
+      "topics": [
+        "Analysis",
+        "Operational Security",
+        "Cybersecurity",
+        "Field History",
+        "Methodology",
+        "Research"
+      ],
+      "tags": [
+        "Conflict",
+        "History",
+        "Research"
+      ]
     },
     {
       "slug": "hacking-web-intelligence-open-source-intelligence-and-web-reconnaissance-concepts-and-techniques",
@@ -850,9 +1070,23 @@
       "language": [
         "English"
       ],
-      "review": [],
-      "topics": [],
-      "tags": []
+      "editorialSummary": "Audible: Plans now starting at $8.99/month",
+      "review": [
+        "Audible: Plans now starting at $8.99/month",
+        "It reinforces repeatable investigative habits rather than relying on disposable tool lists or trend-driven tactics. Best suited to readers building practical OSINT familiarity, investigative researchers, and adjacent professionals entering the field."
+      ],
+      "whyItMatters": "It reinforces repeatable investigative habits rather than relying on disposable tool lists or trend-driven tactics.",
+      "whoItsFor": "Readers building practical OSINT familiarity, investigative researchers, and adjacent professionals entering the field.",
+      "readingLevel": "Advanced",
+      "topics": [
+        "Analysis",
+        "Cybersecurity",
+        "Methodology",
+        "Research"
+      ],
+      "tags": [
+        "Research"
+      ]
     },
     {
       "slug": "the-tao-of-open-source-intelligence",
@@ -876,9 +1110,22 @@
       "language": [
         "English"
       ],
-      "review": [],
-      "topics": [],
-      "tags": []
+      "editorialSummary": "Audible: Plans now starting at $8.99/month",
+      "review": [
+        "Audible: Plans now starting at $8.99/month",
+        "It reinforces repeatable investigative habits rather than relying on disposable tool lists or trend-driven tactics. Best suited to readers building practical OSINT familiarity, investigative researchers, and adjacent professionals entering the field."
+      ],
+      "whyItMatters": "It reinforces repeatable investigative habits rather than relying on disposable tool lists or trend-driven tactics.",
+      "whoItsFor": "Readers building practical OSINT familiarity, investigative researchers, and adjacent professionals entering the field.",
+      "readingLevel": "Advanced",
+      "topics": [
+        "Analysis",
+        "Methodology",
+        "Research"
+      ],
+      "tags": [
+        "Research"
+      ]
     },
     {
       "slug": "psychology-of-intelligence-analysis",
@@ -938,9 +1185,22 @@
       "language": [
         "English"
       ],
-      "review": [],
-      "topics": [],
-      "tags": []
+      "editorialSummary": "Intelligence veteran Mark M.",
+      "review": [
+        "Intelligence veteran Mark M.",
+        "Lowenthal presents an academic introduction to the history and current role of intelligence agencies in the foreign policy of the United States.",
+        "Useful when the reader needs background on how a scene, network, or armed formation developed before trying to interpret current actors and signals. Best suited to conflict researchers, journalists, extremist-network analysts, and OSINT practitioners following the evolution of militant or adjacent subcultures."
+      ],
+      "whyItMatters": "Useful when the reader needs background on how a scene, network, or armed formation developed before trying to interpret current actors and signals.",
+      "whoItsFor": "Conflict researchers, journalists, extremist-network analysts, and OSINT practitioners following the evolution of militant or adjacent subcultures.",
+      "readingLevel": "Advanced",
+      "topics": [
+        "Analysis",
+        "Field History"
+      ],
+      "tags": [
+        "History"
+      ]
     },
     {
       "slug": "investigators-guide-to-open-source-intelligence",
@@ -1004,9 +1264,22 @@
       "language": [
         "German"
       ],
-      "review": [],
-      "topics": [],
-      "tags": []
+      "editorialSummary": "Open Source Intelligence ✓ Informationen aus offenen Quellen gewinnen, auswerten, verifizieren ✓ Methoden & Tools für die Recherche ► Jetzt Buch kaufen",
+      "review": [
+        "Open Source Intelligence ✓ Informationen aus offenen Quellen gewinnen, auswerten, verifizieren ✓ Methoden & Tools für die Recherche ► Jetzt Buch kaufen",
+        "It reinforces repeatable investigative habits rather than relying on disposable tool lists or trend-driven tactics. Best suited to readers building practical OSINT familiarity, investigative researchers, and adjacent professionals entering the field."
+      ],
+      "whyItMatters": "It reinforces repeatable investigative habits rather than relying on disposable tool lists or trend-driven tactics.",
+      "whoItsFor": "Readers building practical OSINT familiarity, investigative researchers, and adjacent professionals entering the field.",
+      "readingLevel": "Advanced",
+      "topics": [
+        "Analysis",
+        "Methodology",
+        "Research"
+      ],
+      "tags": [
+        "Research"
+      ]
     },
     {
       "slug": "satellitenbilder-und-open-source-intelligence-in-konflikten-transparenz-deutung-und-die-neue-macht-offentlicher-beweise",
@@ -1026,9 +1299,24 @@
       "language": [
         "German"
       ],
-      "review": [],
-      "topics": [],
-      "tags": []
+      "editorialSummary": "Dieses Buch zeigt, wie Satellitenbilder und frei zugängliche Daten die Beobachtung moderner Konflikte revolutioniert haben.",
+      "review": [
+        "Dieses Buch zeigt, wie Satellitenbilder und frei zugängliche Daten die Beobachtung moderner Konflikte revolutioniert haben.",
+        "Es erzählt von Journalistinnen, Forschern und Aktivisten, die mit offenen Quellen Kriegsverbrechen dokumentieren, Truppenbewegungen analysieren und Narrative überprüfen.",
+        "It reinforces repeatable investigative habits rather than relying on disposable tool lists or trend-driven tactics. Best suited to readers building practical OSINT familiarity, investigative researchers, and adjacent professionals entering the field."
+      ],
+      "whyItMatters": "It reinforces repeatable investigative habits rather than relying on disposable tool lists or trend-driven tactics.",
+      "whoItsFor": "Readers building practical OSINT familiarity, investigative researchers, and adjacent professionals entering the field.",
+      "readingLevel": "Advanced",
+      "topics": [
+        "Geolocation",
+        "Analysis",
+        "Methodology",
+        "Research"
+      ],
+      "tags": [
+        "Research"
+      ]
     },
     {
       "slug": "von-der-osint-analyse-zur-social-engineering-attacke-wie-frei-verfugbare-informationen-zu-realen-sicherheitsrisiken-werden",
@@ -1048,9 +1336,21 @@
       "language": [
         "German"
       ],
-      "review": [],
-      "topics": [],
-      "tags": []
+      "editorialSummary": "Sicherheit beginnt heute weit vor dem Werkszaun.",
+      "review": [
+        "Sicherheit beginnt heute weit vor dem Werkszaun.",
+        "It reinforces repeatable investigative habits rather than relying on disposable tool lists or trend-driven tactics. Best suited to readers building practical OSINT familiarity, investigative researchers, and adjacent professionals entering the field."
+      ],
+      "whyItMatters": "It reinforces repeatable investigative habits rather than relying on disposable tool lists or trend-driven tactics.",
+      "whoItsFor": "Readers building practical OSINT familiarity, investigative researchers, and adjacent professionals entering the field.",
+      "readingLevel": "Intermediate",
+      "topics": [
+        "Methodology",
+        "Research"
+      ],
+      "tags": [
+        "Research"
+      ]
     },
     {
       "slug": "basiswissen-osint-eine-einfuhrung-in-open-source-intelligence",
@@ -1070,9 +1370,22 @@
       "language": [
         "German"
       ],
-      "review": [],
-      "topics": [],
-      "tags": []
+      "editorialSummary": "Audible: Plans now starting at $8.99/month",
+      "review": [
+        "Audible: Plans now starting at $8.99/month",
+        "It reinforces repeatable investigative habits rather than relying on disposable tool lists or trend-driven tactics. Best suited to readers building practical OSINT familiarity, investigative researchers, and adjacent professionals entering the field."
+      ],
+      "whyItMatters": "It reinforces repeatable investigative habits rather than relying on disposable tool lists or trend-driven tactics.",
+      "whoItsFor": "Readers building practical OSINT familiarity, investigative researchers, and adjacent professionals entering the field.",
+      "readingLevel": "Advanced",
+      "topics": [
+        "Analysis",
+        "Methodology",
+        "Research"
+      ],
+      "tags": [
+        "Research"
+      ]
     },
     {
       "slug": "jager-der-digitalen-schatten-wie-osint-analysten-menschen-im-internet-aufspuren",
@@ -1092,9 +1405,21 @@
       "language": [
         "German"
       ],
-      "review": [],
-      "topics": [],
-      "tags": []
+      "editorialSummary": "Audible: Plans now starting at $8.99/month",
+      "review": [
+        "Audible: Plans now starting at $8.99/month",
+        "It reinforces repeatable investigative habits rather than relying on disposable tool lists or trend-driven tactics. Best suited to readers building practical OSINT familiarity, investigative researchers, and adjacent professionals entering the field."
+      ],
+      "whyItMatters": "It reinforces repeatable investigative habits rather than relying on disposable tool lists or trend-driven tactics.",
+      "whoItsFor": "Readers building practical OSINT familiarity, investigative researchers, and adjacent professionals entering the field.",
+      "readingLevel": "Intermediate",
+      "topics": [
+        "Methodology",
+        "Research"
+      ],
+      "tags": [
+        "Research"
+      ]
     },
     {
       "slug": "osint-die-kunst-offene-informationen-zu-sammeln-digitale-gesellschaft-der-wachsende-einfluss-der-online-informationssammlung",
@@ -1114,9 +1439,21 @@
       "language": [
         "German"
       ],
-      "review": [],
-      "topics": [],
-      "tags": []
+      "editorialSummary": "Audible: Plans now starting at $8.99/month",
+      "review": [
+        "Audible: Plans now starting at $8.99/month",
+        "It reinforces repeatable investigative habits rather than relying on disposable tool lists or trend-driven tactics. Best suited to readers building practical OSINT familiarity, investigative researchers, and adjacent professionals entering the field."
+      ],
+      "whyItMatters": "It reinforces repeatable investigative habits rather than relying on disposable tool lists or trend-driven tactics.",
+      "whoItsFor": "Readers building practical OSINT familiarity, investigative researchers, and adjacent professionals entering the field.",
+      "readingLevel": "Intermediate",
+      "topics": [
+        "Methodology",
+        "Research"
+      ],
+      "tags": [
+        "Research"
+      ]
     },
     {
       "slug": "osint-burger-ermitteln-im-internet-geheimdienste-15",
@@ -1136,9 +1473,21 @@
       "language": [
         "German"
       ],
-      "review": [],
-      "topics": [],
-      "tags": []
+      "editorialSummary": "Audible: Plans now starting at $8.99/month",
+      "review": [
+        "Audible: Plans now starting at $8.99/month",
+        "It reinforces repeatable investigative habits rather than relying on disposable tool lists or trend-driven tactics. Best suited to readers building practical OSINT familiarity, investigative researchers, and adjacent professionals entering the field."
+      ],
+      "whyItMatters": "It reinforces repeatable investigative habits rather than relying on disposable tool lists or trend-driven tactics.",
+      "whoItsFor": "Readers building practical OSINT familiarity, investigative researchers, and adjacent professionals entering the field.",
+      "readingLevel": "Intermediate",
+      "topics": [
+        "Methodology",
+        "Research"
+      ],
+      "tags": [
+        "Research"
+      ]
     },
     {
       "slug": "investigative-journalism-revised-new-edition-a-professional-handbook-for-candidate-and-early-career-journalists",
@@ -1163,9 +1512,23 @@
       "language": [
         "English"
       ],
-      "review": [],
-      "topics": [],
-      "tags": []
+      "editorialSummary": "What you’ll learn in this edition:",
+      "review": [
+        "What you’ll learn in this edition:",
+        "It reinforces repeatable investigative habits rather than relying on disposable tool lists or trend-driven tactics. Best suited to readers building practical OSINT familiarity, investigative researchers, and adjacent professionals entering the field."
+      ],
+      "whyItMatters": "It reinforces repeatable investigative habits rather than relying on disposable tool lists or trend-driven tactics.",
+      "whoItsFor": "Readers building practical OSINT familiarity, investigative researchers, and adjacent professionals entering the field.",
+      "readingLevel": "Beginner",
+      "topics": [
+        "Investigative Journalism",
+        "Methodology",
+        "Research"
+      ],
+      "tags": [
+        "Journalism",
+        "Research"
+      ]
     },
     {
       "slug": "breaking-news-a-guide-to-investigative-journalism",
@@ -1185,9 +1548,23 @@
       "language": [
         "English"
       ],
-      "review": [],
-      "topics": [],
-      "tags": []
+      "editorialSummary": "A practical introduction to investigative journalism aimed at helping readers turn a story idea into structured reporting, evidence collection, and publication.",
+      "review": [
+        "This book is positioned as an entry-level reporting guide rather than an abstract history of the craft. It focuses on the mechanics of investigative work: defining the story, gathering material, validating claims, and shaping findings for publication.",
+        "For this shelf, it works as an on-ramp for readers who want journalistic process and discipline around public-interest investigations."
+      ],
+      "whyItMatters": "It reinforces the reporting habits that keep an investigation coherent from initial lead to finished public-interest story.",
+      "whoItsFor": "Students, early-career reporters, and researchers moving from general writing into investigative journalism practice.",
+      "readingLevel": "Beginner",
+      "topics": [
+        "Investigative Journalism",
+        "Research"
+      ],
+      "tags": [
+        "Reporting",
+        "Field Guide",
+        "Beginner"
+      ]
     },
     {
       "slug": "hybrid-investigative-journalism",
@@ -1213,9 +1590,24 @@
       "language": [
         "English"
       ],
-      "review": [],
-      "topics": [],
-      "tags": []
+      "editorialSummary": "An open-access study of how investigative journalism is changing through collaboration among reporters, citizens, technologists, nonprofits, and networked local organizations.",
+      "review": [
+        "This book examines emerging investigative models through ethnographic and case-based research. It looks at projects such as Bristol Cable, Bureau Local, the Korea Center for Investigative Journalism, and Forbidden Stories to show how watchdog work is being reorganized in the digital era.",
+        "Its importance is conceptual: it helps readers understand investigative journalism as a hybrid ecosystem shaped by collaboration, new actors, and evolving institutional forms."
+      ],
+      "whyItMatters": "It gives the catalog a serious account of how modern investigative work is being restructured beyond the classic single-newsroom model.",
+      "whoItsFor": "Journalism scholars, editors, collaborative-investigation practitioners, and readers interested in the organizational future of investigative reporting.",
+      "readingLevel": "Advanced",
+      "topics": [
+        "Investigative Journalism",
+        "Analysis",
+        "Field History"
+      ],
+      "tags": [
+        "Collaboration",
+        "Newsroom",
+        "Case Studies"
+      ]
     },
     {
       "slug": "investigative-journalism-a-contemporary-practice-and-practical-guide-to-investigative-and-interpretative-reporting",
@@ -1240,9 +1632,23 @@
       "language": [
         "English"
       ],
-      "review": [],
-      "topics": [],
-      "tags": []
+      "editorialSummary": "A practice-led guide to investigative and interpretative reporting, covering core reporting habits, source work, interviews, ethics, and the construction of investigative stories.",
+      "review": [
+        "This title is structured as a practical handbook rather than a theory text. It introduces the traits of investigative reporters, the main categories of sources, interview methods, the stages of an inquiry, and the constraints that shape reporting in the field.",
+        "Readers looking for a broad procedural map of investigative journalism will get more from it than readers searching for a narrow OSINT specialization."
+      ],
+      "whyItMatters": "It provides a basic but usable framework for carrying an investigation from idea to evidence, interpretation, and final reporting.",
+      "whoItsFor": "Students, trainers, and early-stage reporters who need a straightforward guide to investigative reporting practice.",
+      "readingLevel": "Beginner",
+      "topics": [
+        "Investigative Journalism",
+        "Research"
+      ],
+      "tags": [
+        "Reporting",
+        "Interviews",
+        "Ethics"
+      ]
     },
     {
       "slug": "investigative-journalism-handbook",
@@ -1266,9 +1672,24 @@
       "language": [
         "English"
       ],
-      "review": [],
-      "topics": [],
-      "tags": []
+      "editorialSummary": "An Al Jazeera training manual that introduces investigative reporting methods, critical thinking, evidence gathering, and newsroom-safe practice for public-interest work.",
+      "review": [
+        "Produced as a teaching resource, this handbook is designed to walk readers through the core habits of investigative journalism, from selecting an issue and framing a hypothesis to handling data, developing sources, and managing legal and physical risk.",
+        "It is especially valuable as a structured learning tool because it turns investigative craft into a sequence of teachable, repeatable steps."
+      ],
+      "whyItMatters": "It offers a newsroom-oriented investigative curriculum that complements the more OSINT-specific books on the shelf.",
+      "whoItsFor": "Journalism students, trainers, and working reporters who want a structured manual for investigative method and evidence-led reporting.",
+      "readingLevel": "Beginner",
+      "topics": [
+        "Investigative Journalism",
+        "Research",
+        "Verification"
+      ],
+      "tags": [
+        "Training",
+        "Evidence",
+        "Newsroom"
+      ]
     },
     {
       "slug": "investigative-reporter-s-handbook-a-guide-to-documents-databases-and-techniques",
@@ -1293,9 +1714,24 @@
       "language": [
         "English"
       ],
-      "review": [],
-      "topics": [],
-      "tags": []
+      "editorialSummary": "Published with Investigative Reporters and Editors, Inc.",
+      "review": [
+        "Published with Investigative Reporters and Editors, Inc.",
+        "(IRE), The Investigative Reporter’s Handbook is the best-selling classroom and newsroom classic.",
+        "It reinforces repeatable investigative habits rather than relying on disposable tool lists or trend-driven tactics. Best suited to readers building practical OSINT familiarity, investigative researchers, and adjacent professionals entering the field."
+      ],
+      "whyItMatters": "It reinforces repeatable investigative habits rather than relying on disposable tool lists or trend-driven tactics.",
+      "whoItsFor": "Readers building practical OSINT familiarity, investigative researchers, and adjacent professionals entering the field.",
+      "readingLevel": "Beginner",
+      "topics": [
+        "Investigative Journalism",
+        "Methodology",
+        "Research"
+      ],
+      "tags": [
+        "Journalism",
+        "Research"
+      ]
     },
     {
       "slug": "verification-handbook-for-disinformation-and-media-manipulation",
@@ -1319,9 +1755,24 @@
       "language": [
         "English"
       ],
-      "review": [],
-      "topics": [],
-      "tags": []
+      "editorialSummary": "This book equips journalists with the knowledge to investigate on disinformation and media manipulation.",
+      "review": [
+        "This book equips journalists with the knowledge to investigate on disinformation and media manipulation.",
+        "It helps move the shelf beyond discovery and toward material a reader can verify, compare, and defend. Best suited to readers building practical OSINT familiarity, investigative researchers, and adjacent professionals entering the field."
+      ],
+      "whyItMatters": "It helps move the shelf beyond discovery and toward material a reader can verify, compare, and defend.",
+      "whoItsFor": "Readers building practical OSINT familiarity, investigative researchers, and adjacent professionals entering the field.",
+      "readingLevel": "Beginner",
+      "topics": [
+        "Investigative Journalism",
+        "Verification",
+        "Methodology",
+        "Research"
+      ],
+      "tags": [
+        "Journalism",
+        "Research"
+      ]
     },
     {
       "slug": "citizen-investigation-guide",
@@ -1345,9 +1796,24 @@
       "language": [
         "English"
       ],
-      "review": [],
-      "topics": [],
-      "tags": []
+      "editorialSummary": "A GIJN guide that adapts investigative-journalism techniques for non-journalists, showing how citizens can research people, corporations, governments, and property records responsibly.",
+      "review": [
+        "The guide is explicitly written for readers outside traditional newsrooms. It teaches planning, ethics and safety, internet research, records work, and practical ways to investigate public-interest questions without formal journalistic credentials.",
+        "Its best contribution is opening the investigative toolkit to NGOs, local activists, and motivated individuals while still borrowing discipline from professional reporting."
+      ],
+      "whyItMatters": "It broadens the shelf beyond professional reporters and shows how investigative habits can be taught to civic actors and community researchers.",
+      "whoItsFor": "Citizen investigators, NGO researchers, community groups, and newcomers who want a clear route into public-interest investigation.",
+      "readingLevel": "Beginner",
+      "topics": [
+        "Investigative Journalism",
+        "Methodology",
+        "Research"
+      ],
+      "tags": [
+        "Civic Research",
+        "Records",
+        "Public Interest"
+      ]
     },
     {
       "slug": "investigative-journalism-a-survival-guide",
@@ -1367,9 +1833,29 @@
       "language": [
         "English"
       ],
-      "review": [],
-      "topics": [],
-      "tags": []
+      "editorialSummary": "At a time of hyper-partisanship, media fragmentation and \"fake news\", the work of investigative journalism has never been more important.",
+      "review": [
+        "At a time of hyper-partisanship, media fragmentation and \"fake news\", the work of investigative journalism has never been more important.",
+        "This book explores the history and art of investigative journalism, and explains how to deal with legal bullies, crooked politicians, media bosses, big business and intelligence agencies; how to withstand conspiracy…",
+        "Useful when the reader needs background on how a scene, network, or armed formation developed before trying to interpret current actors and signals. Best suited to conflict researchers, journalists, extremist-network analysts, and OSINT practitioners following the evolution of militant or adjacent subcultures."
+      ],
+      "whyItMatters": "Useful when the reader needs background on how a scene, network, or armed formation developed before trying to interpret current actors and signals.",
+      "whoItsFor": "Conflict researchers, journalists, extremist-network analysts, and OSINT practitioners following the evolution of militant or adjacent subcultures.",
+      "readingLevel": "Advanced",
+      "topics": [
+        "Investigative Journalism",
+        "Analysis",
+        "Corporate Intelligence",
+        "Field History",
+        "Methodology",
+        "Research"
+      ],
+      "tags": [
+        "Conflict",
+        "Journalism",
+        "History",
+        "Research"
+      ]
     },
     {
       "slug": "the-hidden-scenario",
@@ -1394,9 +1880,24 @@
       "language": [
         "English"
       ],
-      "review": [],
-      "topics": [],
-      "tags": []
+      "editorialSummary": "A handbook on using scenarios, chronology, and scene construction to develop hypotheses and guide investigative reporting in the field.",
+      "review": [
+        "This book argues that scenario-building is not just a storytelling device but a research tool. It starts with chronology, moves into scene construction, and then shows how those scenes reveal the people, documents, and data needed to test a hypothesis.",
+        "It is especially useful for reporters who need a way to organize complex investigations before the evidence is fully assembled."
+      ],
+      "whyItMatters": "It gives investigators a concrete method for turning uncertainty into a structured reporting plan instead of a pile of disconnected leads.",
+      "whoItsFor": "Investigative reporters, editors, and researchers who need stronger hypothesis-building and story-planning discipline.",
+      "readingLevel": "Intermediate",
+      "topics": [
+        "Investigative Journalism",
+        "Methodology",
+        "Research"
+      ],
+      "tags": [
+        "Hypothesis",
+        "Chronology",
+        "Narrative"
+      ]
     },
     {
       "slug": "the-story-tells-the-facts",
@@ -1421,9 +1922,24 @@
       "language": [
         "English"
       ],
-      "review": [],
-      "topics": [],
-      "tags": []
+      "editorialSummary": "A manual on structuring investigative narratives, showing how research material, chronology, and scenes can be transformed into clear and forceful storytelling.",
+      "review": [
+        "This book focuses on composition rather than initial discovery. It explains how to build a narrative from a reporting database, use scenes and chronology effectively, and apply specific storytelling devices without losing evidentiary discipline.",
+        "Its strength is helping investigators publish with impact: the facts are not treated as raw dump material but as elements that can be organized into a compelling and accountable public narrative."
+      ],
+      "whyItMatters": "It fills the gap between gathering evidence and presenting it persuasively, which is where many investigations either become unreadable or lose force.",
+      "whoItsFor": "Investigative journalists, documentary storytellers, and editors who want stronger narrative structure in evidence-heavy reporting.",
+      "readingLevel": "Intermediate",
+      "topics": [
+        "Investigative Journalism",
+        "Analysis",
+        "Research"
+      ],
+      "tags": [
+        "Narrative",
+        "Structure",
+        "Writing"
+      ]
     },
     {
       "slug": "investigative-practice",
@@ -1447,9 +1963,24 @@
       "language": [
         "English"
       ],
-      "review": [],
-      "topics": [],
-      "tags": []
+      "editorialSummary": "A CIJ seminar-based handbook on contemporary investigative practice, built around discussion of traditional methods, emerging techniques, and interdisciplinary collaboration.",
+      "review": [
+        "This work grows out of the Logan Symposium seminar series and captures practical conversations about how investigations are changing. It treats investigative work as a meeting point for journalists, hackers, academics, artists, and activists rather than a closed professional silo.",
+        "That makes it useful less as a linear beginner manual than as a snapshot of the tensions and opportunities inside modern investigative practice."
+      ],
+      "whyItMatters": "It helps readers think about investigations as collaborative, cross-disciplinary work rather than a fixed legacy newsroom craft.",
+      "whoItsFor": "Investigators, collaborative-reporting teams, and readers interested in how traditional reporting methods interact with newer investigative communities.",
+      "readingLevel": "Intermediate",
+      "topics": [
+        "Investigative Journalism",
+        "Analysis",
+        "Research"
+      ],
+      "tags": [
+        "Collaboration",
+        "Seminar",
+        "Practice"
+      ]
     },
     {
       "slug": "the-science-writers-investigative-reporting-handbook",
@@ -1473,9 +2004,25 @@
       "language": [
         "English"
       ],
-      "review": [],
-      "topics": [],
-      "tags": []
+      "editorialSummary": "Both science writers and investigative reporters rely on analytical skills, curiosity, skepticism and a knack for sussing out dubious claims, Liza Gross notes in The Science Writers’ Investigative Reporting Handbook.",
+      "review": [
+        "Both science writers and investigative reporters rely on analytical skills, curiosity, skepticism and a knack for sussing out dubious claims, Liza Gross notes in The Science Writers’ Investigative Reporting Handbook.",
+        "Her book, written with support from a NASW Peggy Girshman Idea Grant, tells how to explore the story behind the story, detect biases, and find concealed information.",
+        "It reinforces repeatable investigative habits rather than relying on disposable tool lists or trend-driven tactics. Best suited to readers building practical OSINT familiarity, investigative researchers, and adjacent professionals entering the field."
+      ],
+      "whyItMatters": "It reinforces repeatable investigative habits rather than relying on disposable tool lists or trend-driven tactics.",
+      "whoItsFor": "Readers building practical OSINT familiarity, investigative researchers, and adjacent professionals entering the field.",
+      "readingLevel": "Advanced",
+      "topics": [
+        "Investigative Journalism",
+        "Analysis",
+        "Methodology",
+        "Research"
+      ],
+      "tags": [
+        "Journalism",
+        "Research"
+      ]
     },
     {
       "slug": "global-muckraking-100-years-of-investigative-journalism-from-around-the-world",
@@ -1500,9 +2047,26 @@
       "language": [
         "English"
       ],
-      "review": [],
-      "topics": [],
-      "tags": []
+      "editorialSummary": "Crusading journalists from Sinclair Lewis to Bob Woodward and Carl Bernstein have played a central role in American politics: checking abuses of power, revealing corporate misdeeds, and exposing government corruption.",
+      "review": [
+        "Crusading journalists from Sinclair Lewis to Bob Woodward and Carl Bernstein have played a central role in American politics: checking abuses of power, revealing corporate misdeeds, and exposing government corruption.",
+        "Muckraking journalism is part and parcel of American democracy.",
+        "Useful when the reader needs background on how a scene, network, or armed formation developed before trying to interpret current actors and signals. Best suited to conflict researchers, journalists, extremist-network analysts, and OSINT practitioners following the evolution of militant or adjacent subcultures."
+      ],
+      "whyItMatters": "Useful when the reader needs background on how a scene, network, or armed formation developed before trying to interpret current actors and signals.",
+      "whoItsFor": "Conflict researchers, journalists, extremist-network analysts, and OSINT practitioners following the evolution of militant or adjacent subcultures.",
+      "readingLevel": "Beginner",
+      "topics": [
+        "Investigative Journalism",
+        "Human Rights",
+        "Corporate Intelligence",
+        "Field History"
+      ],
+      "tags": [
+        "Conflict",
+        "Journalism",
+        "History"
+      ]
     },
     {
       "slug": "the-investigative-journalist-s-guide-to-company-accounts",
@@ -1526,9 +2090,25 @@
       "language": [
         "English"
       ],
-      "review": [],
-      "topics": [],
-      "tags": []
+      "editorialSummary": "A practical guide to reading company accounts for investigations, aimed at helping journalists find the story hidden behind profit, assets, liabilities, disclosures, and corporate structures.",
+      "review": [
+        "Raj Bairoliya wrote this book to demystify company accounts for reporters who do not work in finance every day. It shows how to ask the right questions of a company, interpret the numbers, read the small print, and spot where the real story may be hiding.",
+        "Although grounded in UK company reporting, the book is useful well beyond that context because the investigative habits it teaches transfer to corporate research, due diligence, and cross-border ownership work."
+      ],
+      "whyItMatters": "It gives non-specialist investigators a realistic path into financial documents, which are often central to corruption, fraud, and ownership reporting.",
+      "whoItsFor": "Investigative journalists, due-diligence researchers, and analysts who need to make sense of company filings without formal accounting training.",
+      "readingLevel": "Intermediate",
+      "topics": [
+        "Investigative Journalism",
+        "Corporate Intelligence",
+        "Due Diligence",
+        "Research"
+      ],
+      "tags": [
+        "Finance",
+        "Company Accounts",
+        "Ownership"
+      ]
     },
     {
       "slug": "digging-deeper-a-guide-for-investigative-journalists-in-the-balkans",
@@ -1553,9 +2133,23 @@
       "language": [
         "English"
       ],
-      "review": [],
-      "topics": [],
-      "tags": []
+      "editorialSummary": "Audible: Plans now starting at $8.99/month",
+      "review": [
+        "Audible: Plans now starting at $8.99/month",
+        "It reinforces repeatable investigative habits rather than relying on disposable tool lists or trend-driven tactics. Best suited to readers building practical OSINT familiarity, investigative researchers, and adjacent professionals entering the field."
+      ],
+      "whyItMatters": "It reinforces repeatable investigative habits rather than relying on disposable tool lists or trend-driven tactics.",
+      "whoItsFor": "Readers building practical OSINT familiarity, investigative researchers, and adjacent professionals entering the field.",
+      "readingLevel": "Beginner",
+      "topics": [
+        "Investigative Journalism",
+        "Methodology",
+        "Research"
+      ],
+      "tags": [
+        "Journalism",
+        "Research"
+      ]
     },
     {
       "slug": "the-global-investigative-journalism-casebook",
@@ -1579,9 +2173,24 @@
       "language": [
         "English"
       ],
-      "review": [],
-      "topics": [],
-      "tags": []
+      "editorialSummary": "A UNESCO casebook collecting more than twenty investigative stories from around the world, each paired with explanations of the reporting, organization, and writing methods behind the work.",
+      "review": [
+        "This anthology is designed as a companion to Story-Based Inquiry. It uses finished investigations from multiple regions and subject areas to show how real reporters approached public-interest topics such as governance, law, environment, health, and social issues.",
+        "Its distinctive value is comparative: readers see not just results but method, making the book both instructive and useful for teaching investigative practice across contexts."
+      ],
+      "whyItMatters": "It grounds investigative method in real cases, which helps readers move from abstract principles to actual reporting decisions and workflows.",
+      "whoItsFor": "Journalism educators, students, and investigators who learn best from concrete case studies rather than standalone method chapters.",
+      "readingLevel": "Intermediate",
+      "topics": [
+        "Investigative Journalism",
+        "Field History",
+        "Research"
+      ],
+      "tags": [
+        "Case Studies",
+        "UNESCO",
+        "Comparative Practice"
+      ]
     },
     {
       "slug": "story-based-inquiry-a-manual-for-investigative-journalists",
@@ -1606,9 +2215,24 @@
       "language": [
         "English"
       ],
-      "review": [],
-      "topics": [],
-      "tags": []
+      "editorialSummary": "A benchmark investigative-journalism manual that treats an inquiry as an integrated process, from conceiving the story to structuring, researching, writing, and publishing it.",
+      "review": [
+        "This handbook became a global reference because it organizes investigative work around the story logic that drives the whole process. Instead of treating reporting, structure, and publication as separate tasks, it shows how they connect from the start of an inquiry.",
+        "Its influence comes from being short, teachable, and methodical. For readers building investigative discipline, it remains one of the clearest manuals on how to think through an investigation end to end."
+      ],
+      "whyItMatters": "It is one of the clearest foundational texts for turning investigative journalism into a repeatable process rather than an improvised craft.",
+      "whoItsFor": "Students, trainers, and working reporters who want a compact but durable manual for investigative method and story design.",
+      "readingLevel": "Beginner",
+      "topics": [
+        "Investigative Journalism",
+        "Methodology",
+        "Research"
+      ],
+      "tags": [
+        "Method",
+        "Story Design",
+        "UNESCO"
+      ]
     },
     {
       "slug": "watchdog-journalism-the-art-of-investigative-reporting",
@@ -1628,9 +2252,24 @@
       "language": [
         "English"
       ],
-      "review": [],
-      "topics": [],
-      "tags": []
+      "editorialSummary": "Watchdog Journalism: The Art of Investigative Reporting takes readers into the world of Pulitzer Prize reporting.",
+      "review": [
+        "Watchdog Journalism: The Art of Investigative Reporting takes readers into the world of Pulitzer Prize reporting.",
+        "Drawing from intriguing interviews and archival research, author Stephen J.",
+        "It reinforces repeatable investigative habits rather than relying on disposable tool lists or trend-driven tactics. Best suited to readers building practical OSINT familiarity, investigative researchers, and adjacent professionals entering the field."
+      ],
+      "whyItMatters": "It reinforces repeatable investigative habits rather than relying on disposable tool lists or trend-driven tactics.",
+      "whoItsFor": "Readers building practical OSINT familiarity, investigative researchers, and adjacent professionals entering the field.",
+      "readingLevel": "Intermediate",
+      "topics": [
+        "Investigative Journalism",
+        "Methodology",
+        "Research"
+      ],
+      "tags": [
+        "Journalism",
+        "Research"
+      ]
     }
   ]
 }
